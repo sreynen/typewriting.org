@@ -8,6 +8,7 @@ export default () => <div style={{color: 'tomato'}}>
   <br />
   <br />
   <div>
-    <Link to="/page-2/">Link</Link>
+    <Link to="/page-2/">Link: page 2 <br /> </Link>
+    <Link to="/page-3/">Link: page 3 <br /> </Link>
   </div>
 </div>
