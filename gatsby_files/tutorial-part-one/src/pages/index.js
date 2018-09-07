@@ -11,7 +11,10 @@ export default () => <div style={{color: 'tomato'}}>
     <Link to="/page-2/">Link: page 2 <br /> </Link>
     <Link to="/page-3/">Link: page 3 <br /> </Link>
   </div>
+
+  <br />
+
   <div>
-    <Link to="/counter/">Page Counter <br /> </Link>
+    <Link to="/counter/">Counter<br /> </Link>
   </div>
 </div>
