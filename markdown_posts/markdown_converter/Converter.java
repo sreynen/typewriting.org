@@ -6,11 +6,15 @@ import java.io.FileNotFoundException;
 
 public class Converter {
   public static void main(String[] args) throws IOException {
-
+    int character = 0;
     try {
       FileReader rawBlogContents = new FileReader(args[0]);
 
-      System.out.print(rawBlogContents);
+      while ((character = rawBlogContents.read()) != -1) {
+        System.out.print((char) character);
+      }
+
+      //System.out.print(rawBlogContents);
 
       rawBlogContents.close();
     }
