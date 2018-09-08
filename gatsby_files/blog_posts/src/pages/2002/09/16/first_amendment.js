@@ -3,7 +3,7 @@ import React from "react";
 export default () => (
 
   <p>
-    Posted: 2002-09-16 12:55:57 <br /><br />
+
 
     <a href="http://www.freedomforum.org/templates/document.asp?documentID=16836\\">
 a sad day</a>:
@@ -11,5 +11,8 @@ a sad day</a>:
   half (49%) of those surveyed said the First Amendment goes too far in the rights
  it guarantees.
     </q>
+
+    <br /> <br />
+    <h8>Posted: 2002-09-16 12:55:57 </h8>
  </p>
 );
