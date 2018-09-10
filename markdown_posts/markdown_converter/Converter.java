@@ -56,10 +56,22 @@ public class Converter {
           split[i] = replaceSubstring (split[i], "â€“", "-");
           split[i] = replaceSubstring (split[i], "â€™", "'");
           split[i] = replaceSubstring (split[i], "\\\"", "\"");
-
+          split[i] = replaceSubstring (split[i], "&#8220;", "\"");
+          split[i] = replaceSubstring (split[i], "&#8221;", "\"");
+          split[i] = replaceSubstring (split[i], "\\\'", "'");
+          //this one will convert browser newlines to markdown newlines
+          split[i] = replaceSubstring (split[i], "\\r\\n", "  ");
+          //convert <p> tags to markdown H6
+          split[i] = replaceSubstring (split[i], "<p>", "######");
+          //remove unnecessary </p> tags
+          split[i] = replaceSubstring (split[i], "</p>", "");
+          //update <em> and </em> tags to markdown bold
+          split[i] = replaceSubstring (split[i], "<em>", "**");
+          split[i] = replaceSubstring (split[i], "</em>", "**");
 
           System.out.println(split[i]);
 
+          //writing cleaned contents out to markdown goes here
         }
 
       }
