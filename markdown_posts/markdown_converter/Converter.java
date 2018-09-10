@@ -25,6 +25,12 @@ public class Converter {
 
   }
 
+  public static String replaceSubstring (String toUpdate, CharSequence remove, CharSequence insert) {
+    String replaced = toUpdate.replace(remove, insert);
+
+    return replaced;
+  }
+
   public static void main(String[] args) throws IOException {
     String read = null;
     try {
@@ -38,15 +44,18 @@ public class Converter {
 
 //remove beginning paren
           removeBeginning (i, split, '(');
-
 //remove ending semicolon
           removeEnding (i, split, ';');
-
 //remove ending paren
           removeEnding (i, split, ')');
-
 //remove trailing apostrophes
           removeEnding (i, split, '\'');
+
+//update mistranslated characters
+          split[i] = replaceSubstring (split[i], "&#8217;", "'");
+          split[i] = replaceSubstring (split[i], "â€“", "-");
+          split[i] = replaceSubstring (split[i], "â€™", "'");
+          split[i] = replaceSubstring (split[i], "\\\"", "\"");
 
 
           System.out.println(split[i]);
