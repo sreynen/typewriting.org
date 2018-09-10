@@ -6,6 +6,25 @@ import java.io.FileNotFoundException;
 
 
 public class Converter {
+
+  public static void removeBeginning (int index, String[] split, char drop) {
+    int length = split[index].length();
+//remove beginning paren
+    if (split[index] != null && length > 0 && split[index].charAt(0) == drop) {
+      split[index] = split[index].substring(1, length);
+    }
+
+  }
+
+  public static void removeEnding (int index, String[] split, char drop) {
+    int length = split[index].length();
+    if (split[index] != null && length > 0 &&
+          split[index].charAt(length-1) == drop) {
+      split[index] = split[index].substring(0, length-1);
+    }
+
+  }
+
   public static void main(String[] args) throws IOException {
     String read = null;
     try {
@@ -16,33 +35,18 @@ public class Converter {
         String[] split = read.split(",'");
 
         for (int i = 0; i < split.length; ++i) {
-          int length = split[i].length();
+
 //remove beginning paren
-          if (split[i] != null && length > 0 && split[i].charAt(0) == '(') {
-            split[i] = split[i].substring(1, length);
-          }
+          removeBeginning (i, split, '(');
 
 //remove ending semicolon
-          length = split[i].length();
-          if (split[i] != null && length > 0 &&
-                split[i].charAt(length-1) == ';') {
-            split[i] = split[i].substring(0, length-1);
-          }
-
+          removeEnding (i, split, ';');
 
 //remove ending paren
-          length = split[i].length();
-          if (split[i] != null && length > 0 &&
-                split[i].charAt(length-1) == ')') {
-            split[i] = split[i].substring(0, length-1);
-          }
+          removeEnding (i, split, ')');
 
 //remove trailing apostrophes
-          length = split[i].length();
-          if (split[i] != null && length > 0 &&
-                split[i].charAt(length-1) == '\'') {
-            split[i] = split[i].substring(0, length-1);
-          }
+          removeEnding (i, split, '\'');
 
 
           System.out.println(split[i]);
