@@ -78,9 +78,21 @@ public class Converter {
 
 
       }
+
+      //finagle things for post header
+      String dateTime = replaceSubstring (split[3], "-", "/");
+      String path = "/" + replaceSubstring (split[1], " ", "_");
       //writing cleaned contents out to markdown goes here
 
       FileWriter writeOut = new FileWriter("../md_files/" + split[1] + ".md");
+      //create post header per tutorial
+      writeOut.write("---" + "\n");
+      writeOut.write("path: \"" +  dateTime.split(" ")[0] + path + "\" \n");
+      writeOut.write("date: \"" + dateTime + "\" \n");
+      writeOut.write("title: \"" + split[1] + "\" \n");
+      writeOut.write("---" + "\n\n");
+
+      //write out existing contents
       writeOut.write(split[2]);
       writeOut.flush();
       writeOut.close();
