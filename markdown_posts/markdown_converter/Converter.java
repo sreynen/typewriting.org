@@ -33,12 +33,13 @@ public class Converter {
 
   public static void main(String[] args) throws IOException {
     String read = null;
+    String[] split = new String[4]; // sorry for the magic number
     try {
       BufferedReader rawBlogContents = new BufferedReader(
                                         new FileReader(args[0]));
 
       while ((read = rawBlogContents.readLine()) != null) {
-        String[] split = read.split(",'");
+        split = read.split(",'");
 
         for (int i = 0; i < split.length; ++i) {
 
@@ -71,10 +72,18 @@ public class Converter {
 
           System.out.println(split[i]);
 
-          //writing cleaned contents out to markdown goes here
+
         }
 
+
+
       }
+      //writing cleaned contents out to markdown goes here
+
+      FileWriter writeOut = new FileWriter("../md_files/" + split[1] + ".md");
+      writeOut.write(split[2]);
+      writeOut.flush();
+      writeOut.close();
 
       rawBlogContents.close();
     }
