@@ -13,7 +13,7 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: '${__dirname}/md_files',
-        name: 'pages'
+        name: 'md_files'
       }
     },
     'gatsby-plugin-catch-links',

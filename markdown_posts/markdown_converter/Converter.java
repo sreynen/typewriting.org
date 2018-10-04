@@ -62,13 +62,13 @@ public class Converter {
           split[i] = replaceSubstring (split[i], "\\\'", "'");
           //this one will convert browser newlines to markdown newlines
           //split[i] = replaceSubstring (split[i], "\\r\\n", "<br>");
-          
+
           //convert <p> tags to markdown H6
           //split[i] = replaceSubstring (split[i], "<p>", "######");
-          
+
           //remove unnecessary </p> tags
           //split[i] = replaceSubstring (split[i], "</p>", "");
-          
+
           //update <em> and </em> tags to markdown italics
           //split[i] = replaceSubstring (split[i], "<em>", "*");
           //split[i] = replaceSubstring (split[i], "</em>", "*");
@@ -87,7 +87,7 @@ public class Converter {
       String path = "/" + replaceSubstring (split[1], " ", "_");
       //writing cleaned contents out to markdown goes here
 
-      FileWriter writeOut = new FileWriter("../md_files/" + split[1] + ".md");
+      FileWriter writeOut = new FileWriter("../../gatsby_files/blog_posts/md_files/" + split[1] + ".md");
       //create post header per tutorial
       writeOut.write("---" + "\n");
       writeOut.write("path: \"" +  dateTime.split(" ")[0] + path + "\" \n");
