@@ -14,6 +14,7 @@
     "gatsby-source-filesystem": "^2.0.1",
     "gatsby-transformer-remark": "^2.1.4",
     "graphql": "^0.13.2",
+    "react-dom": "^16.5.2",
     "react-helmet": "^5.2.0",
     "react-media": "^1.8.0",
     "relay-compiler": "^1.6.2"
