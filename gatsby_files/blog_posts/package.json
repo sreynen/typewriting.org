@@ -5,21 +5,22 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^2.0.18",
-    "gatsby-cli": "^2.4.2",
+    "gatsby-cli": "^2.4.3",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-canonical-urls": "^2.0.5",
     "gatsby-plugin-catch-links": "^2.0.3",
     "gatsby-plugin-favicon": "^3.1.4",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-source-filesystem": "^2.0.1",
-    "gatsby-transformer-remark": "^2.1.4",
+    "gatsby-transformer-remark": "^2.1.7",
     "graphql": "^0.13.2",
     "history": "^4.7.2",
     "react-dom": "^16.5.2",
     "react-helmet": "^5.2.0",
     "react-media": "^1.8.0",
     "react-router-dom": "^4.3.1",
-    "relay-compiler": "^1.6.2"
+    "relay-compiler": "^1.6.2",
+    "webpack": "^4.20.2"
   },
   "keywords": [
     "gatsby"
