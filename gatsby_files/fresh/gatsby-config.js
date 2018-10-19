@@ -4,6 +4,7 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-catch-links',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -17,5 +18,13 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: './src/pages',
+	name: 'pages',
+      }
+    },
+    'gatsby-transformer-remark'
   ],
 }
