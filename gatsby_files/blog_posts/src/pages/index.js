@@ -1,5 +1,11 @@
 import React from 'react'
 import Link from 'gatsby-link'
+//import PropTypes from 'prop-types'
+//import Helmet from 'react-helmet'
+//import Media from 'react-media'
+
+//import './index.css'
+//import "../styles/layout-override.css";
 
 const IndexPage = () => (
   <div>
