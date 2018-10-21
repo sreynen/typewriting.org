@@ -87,7 +87,7 @@ public class Converter {
       String path = "/" + replaceSubstring (split[1], " ", "_");
       //writing cleaned contents out to markdown goes here
 
-      FileWriter writeOut = new FileWriter("../../gatsby_files/blog_posts/md_files/" + split[1] + ".md");
+      FileWriter writeOut = new FileWriter("../../gatsby_files/typewriting_posts/md_files/" + split[1] + ".md");
       //create post header per tutorial
       writeOut.write("---" + "\n");
       writeOut.write("path: \"" +  dateTime.split(" ")[0] + path + "\" \n");
