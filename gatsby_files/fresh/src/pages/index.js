@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-//import PropTypes from 'prop-types'
+import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import Media from 'react-media'
 
@@ -29,8 +29,8 @@ const TemplateWrapper = ({ children }) => (
             height: "100%"
          }}
       >
-      <Media query={{ maxWidth: 848 }}>
-         {matches =>
+        <Media query={{ maxWidth: 848 }}>
+          {matches =>
             matches ? (
                <div
                   style={{
@@ -70,9 +70,9 @@ const TemplateWrapper = ({ children }) => (
                         title="About"
                         description="This is not a real alarm"
                      />
-                     </div>
                   </div>
-               )
+                </div>
+              )
             }
          </Media>
       </div>
@@ -129,6 +129,7 @@ const IndexPage = () => (
     <p>Now go build something great.</p>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
+
 )
 
 export default IndexPage
