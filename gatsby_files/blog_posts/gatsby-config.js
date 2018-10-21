@@ -3,21 +3,28 @@ module.exports = {
     title: 'Gatsby Default Starter',
   },
   plugins: [
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-catch-links',
     {
-      resolve: 'gatsby-plugin-canonical-urls',
+      resolve: `gatsby-plugin-manifest`,
       options: {
-        siteUrl: 'https://www.typewriting.org',
-      }
+        name: 'gatsby-starter-default',
+        short_name: 'starter',
+        start_url: '/',
+        background_color: '#663399',
+        theme_color: '#663399',
+        display: 'minimal-ui',
+        icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
+      },
     },
+    'gatsby-plugin-offline',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: './md_files',
-        name: 'md_files'
+        path: './src/pages',
+	name: 'pages',
       }
     },
-    'gatsby-plugin-catch-links',
-    'gatsby-plugin-react-helmet',
     'gatsby-transformer-remark'
   ],
 }
