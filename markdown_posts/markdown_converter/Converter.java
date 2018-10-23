@@ -84,16 +84,16 @@ public class Converter {
 
       //finagle things for post header
       String dateTime = replaceSubstring (split[3], "-", "/");
-      String path = "/" + replaceSubstring (split[1], " ", "_");
+      String path = "/" + replaceSubstring (split[1], " ", "");
       //writing cleaned contents out to markdown goes here
 
-      FileWriter writeOut = new FileWriter("../../gatsby_files/typewriting_posts/md_files/" + split[1] + ".md");
+      FileWriter writeOut = new FileWriter("../../gatsby_files/typewriting_posts/src/pages" + path + ".md");
       //create post header per tutorial
       writeOut.write("---" + "\n");
       writeOut.write("path: \"" +  dateTime.split(" ")[0] + path + "\" \n");
       writeOut.write("date: \"" + dateTime + "\" \n");
       writeOut.write("title: \"" + split[1] + "\" \n");
-      writeOut.write("---" + "\n\n");
+      writeOut.write("---" + "\n");
 
       //write out existing contents
       writeOut.write(split[2]);
