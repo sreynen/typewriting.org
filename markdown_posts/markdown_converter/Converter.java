@@ -20,6 +20,7 @@ public class Converter {
   }
 
   public static String removeSingleBeginning (String toUpdate, char drop) {
+    int length = toUpdate.length();
     if (toUpdate != null && length > 0 && toUpdate.charAt(0) == drop) {
       return toUpdate.substring(1, length);
     }
@@ -36,6 +37,7 @@ public class Converter {
   }
 
   public static String removeSingleEnding (String toUpdate, char drop) {
+    int length = toUpdate.length();
     if (toUpdate != null && length > 0 && toUpdate.charAt(length-1) == drop) {
       return toUpdate.substring(0, length-1);
     }
@@ -96,6 +98,18 @@ public class Converter {
           //update <em> and </em> tags to markdown italics
           //split[i] = replaceSubstring (split[i], "<em>", "*");
           //split[i] = replaceSubstring (split[i], "</em>", "*");
+
+
+          //handles special case when post title is wrapped in quotes
+          if (i == 1) {
+            if ((split[i].charAt(0) == '\\') &&
+             (split[i].charAt((split[i].length()-1)) == '\"')) {
+               split[i] = removeSingleBeginning(split[i], '\\');
+               split[i] = removeSingleBeginning(split[i], '\"');
+               split[i] = removeSingleEnding(split[i], '\"');
+               split[i] = removeSingleEnding(split[i], '\\');
+             }
+          }
 
             System.out.println(split[i]);
           }
