@@ -85,6 +85,8 @@ public class Converter {
       //finagle things for post header
       String dateTime = replaceSubstring (split[3], "-", "/");
       String path = "/" + replaceSubstring (split[1], " ", "");
+      String postYear = (dateTime.split("/"))[0];
+      
       //writing cleaned contents out to markdown goes here
 
       FileWriter writeOut = new FileWriter("../../gatsby_files/typewriting_posts/src/pages" + path + ".md");
