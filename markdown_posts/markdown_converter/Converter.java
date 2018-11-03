@@ -44,11 +44,13 @@ public class Converter {
 
       while ((read = rawBlogContents.readLine()) != null) {
         entirePost = read.split("\\),\\(");
-        System.out.println(entirePost[0]);
+
+        //iterate through all posts and process each one into markdown
         for (int n = 0; n < entirePost.length; ++n) {
 
           split = entirePost[n].split(",'");
 
+          //cleanup of individual post content as needed for proper rendering
           for (int i = 0; i < split.length; ++i) {
 
 //remove beginning paren
@@ -85,23 +87,23 @@ public class Converter {
           }
 
 
-      //finagle things for post header
+      //finagle things for post frontmatter header
           String dateTime = replaceSubstring (split[3], "-", "/");
           String path = "/" + replaceSubstring (split[1], " ", "");
           String postYear = (dateTime.split("/"))[0];
 
-      //writing cleaned contents out to markdown goes here
+      //writing contents out to markdown goes here
 
           FileWriter writeOut = new FileWriter("../../gatsby_files/" +
           "typewriting_posts/src/pages/converted_posts/" + postYear + path + ".md");
-      //create post header per tutorial
+      //create post header per file
           writeOut.write("---" + "\n");
           writeOut.write("path: \"" +  "/" + dateTime.split(" ")[0] + path + "\" \n");
           writeOut.write("date: \"" + dateTime + "\" \n");
           writeOut.write("title: \"" + split[1] + "\" \n");
           writeOut.write("---" + "\n");
 
-      //write out existing contents
+      //write out processed blog post body
           writeOut.write(split[2]);
           writeOut.flush();
           writeOut.close();
