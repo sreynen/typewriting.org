@@ -44,7 +44,7 @@ public class Converter {
 
       while ((read = rawBlogContents.readLine()) != null) {
         entirePost = read.split("\\),\\(");
-
+        System.out.println(entirePost[0]);
         for (int n = 0; n < entirePost.length; ++n) {
 
           split = entirePost[n].split(",'");
