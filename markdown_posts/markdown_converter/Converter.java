@@ -102,12 +102,10 @@ public class Converter {
 
           //handles special case when post title is wrapped in quotes
           if (i == 1) {
-            if ((split[i].charAt(0) == '\\') &&
+            if ((split[i].charAt(0) == '\"') &&
              (split[i].charAt((split[i].length()-1)) == '\"')) {
-               split[i] = removeSingleBeginning(split[i], '\\');
                split[i] = removeSingleBeginning(split[i], '\"');
                split[i] = removeSingleEnding(split[i], '\"');
-               split[i] = removeSingleEnding(split[i], '\\');
              }
           }
 
