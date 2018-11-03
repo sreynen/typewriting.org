@@ -19,6 +19,13 @@ public class Converter {
 
   }
 
+  public static String removeSingleBeginning (String toUpdate, char drop) {
+    if (toUpdate != null && length > 0 && toUpdate.charAt(0) == drop) {
+      return toUpdate.substring(1, length);
+    }
+    return toUpdate;
+  }
+
   public static void removeEnding (int index, String[] split, char drop) {
     int length = split[index].length();
     if (split[index] != null && length > 0 &&
@@ -26,6 +33,13 @@ public class Converter {
       split[index] = split[index].substring(0, length-1);
     }
 
+  }
+
+  public static String removeSingleEnding (String toUpdate, char drop) {
+    if (toUpdate != null && length > 0 && toUpdate.charAt(length-1) == drop) {
+      return toUpdate.substring(0, length-1);
+    }
+    return toUpdate;
   }
 
   public static String replaceSubstring (String toUpdate, CharSequence remove, CharSequence insert) {
