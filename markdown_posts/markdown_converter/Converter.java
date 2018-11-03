@@ -7,6 +7,9 @@ import java.io.FileNotFoundException;
 
 public class Converter {
 
+  static final int NUM_IN_ENTRY = 4;
+  static final int NUM_TO_PROCESS = 982;
+
   public static void removeBeginning (int index, String[] split, char drop) {
     int length = split[index].length();
 //remove beginning paren
@@ -33,35 +36,40 @@ public class Converter {
 
   public static void main(String[] args) throws IOException {
     String read = null;
-    String[] split = new String[4]; // sorry for the magic number
+    String[] entirePost = new String[NUM_TO_PROCESS];
+    String[] split = new String[NUM_IN_ENTRY];
     try {
       BufferedReader rawBlogContents = new BufferedReader(
                                         new FileReader(args[0]));
 
       while ((read = rawBlogContents.readLine()) != null) {
-        split = read.split(",'");
+        entirePost = read.split("\\),\\(");
 
-        for (int i = 0; i < split.length; ++i) {
+        for (int n = 0; n < entirePost.length; ++n) {
+
+          split = entirePost[n].split(",'");
+
+          for (int i = 0; i < split.length; ++i) {
 
 //remove beginning paren
-          removeBeginning (i, split, '(');
+            removeBeginning (i, split, '(');
 //remove ending semicolon
-          removeEnding (i, split, ';');
+            removeEnding (i, split, ';');
 //remove ending paren
-          removeEnding (i, split, ')');
+            removeEnding (i, split, ')');
 //remove trailing apostrophes
-          removeEnding (i, split, '\'');
+            removeEnding (i, split, '\'');
 
 //update mistranslated characters
-          split[i] = replaceSubstring (split[i], "&#8217;", "'");
-          split[i] = replaceSubstring (split[i], "â€“", "-");
-          split[i] = replaceSubstring (split[i], "â€™", "'");
-          split[i] = replaceSubstring (split[i], "\\\"", "\"");
-          split[i] = replaceSubstring (split[i], "&#8220;", "\"");
-          split[i] = replaceSubstring (split[i], "&#8221;", "\"");
-          split[i] = replaceSubstring (split[i], "\\\'", "'");
+            split[i] = replaceSubstring (split[i], "&#8217;", "'");
+            split[i] = replaceSubstring (split[i], "â€“", "-");
+            split[i] = replaceSubstring (split[i], "â€™", "'");
+            split[i] = replaceSubstring (split[i], "\\\"", "\"");
+            split[i] = replaceSubstring (split[i], "&#8220;", "\"");
+            split[i] = replaceSubstring (split[i], "&#8221;", "\"");
+            split[i] = replaceSubstring (split[i], "\\\'", "'");
           //this one will convert browser newlines to markdown newlines
-          split[i] = replaceSubstring (split[i], "\\r\\n", "<br>");
+            split[i] = replaceSubstring (split[i], "\\r\\n", "<br>");
 
           //convert <p> tags to markdown H6
           //split[i] = replaceSubstring (split[i], "<p>", "######");
@@ -73,34 +81,32 @@ public class Converter {
           //split[i] = replaceSubstring (split[i], "<em>", "*");
           //split[i] = replaceSubstring (split[i], "</em>", "*");
 
-          System.out.println(split[i]);
+            System.out.println(split[i]);
+          }
 
-
-        }
-
-
-
-      }
 
       //finagle things for post header
-      String dateTime = replaceSubstring (split[3], "-", "/");
-      String path = "/" + replaceSubstring (split[1], " ", "");
-      String postYear = (dateTime.split("/"))[0];
-      
+          String dateTime = replaceSubstring (split[3], "-", "/");
+          String path = "/" + replaceSubstring (split[1], " ", "");
+          String postYear = (dateTime.split("/"))[0];
+
       //writing cleaned contents out to markdown goes here
 
-      FileWriter writeOut = new FileWriter("../../gatsby_files/typewriting_posts/src/pages" + path + ".md");
+          FileWriter writeOut = new FileWriter("../../gatsby_files/" +
+          "typewriting_posts/src/pages/converted_posts/" + postYear + path + ".md");
       //create post header per tutorial
-      writeOut.write("---" + "\n");
-      writeOut.write("path: \"" +  "/" + dateTime.split(" ")[0] + path + "\" \n");
-      writeOut.write("date: \"" + dateTime + "\" \n");
-      writeOut.write("title: \"" + split[1] + "\" \n");
-      writeOut.write("---" + "\n");
+          writeOut.write("---" + "\n");
+          writeOut.write("path: \"" +  "/" + dateTime.split(" ")[0] + path + "\" \n");
+          writeOut.write("date: \"" + dateTime + "\" \n");
+          writeOut.write("title: \"" + split[1] + "\" \n");
+          writeOut.write("---" + "\n");
 
       //write out existing contents
-      writeOut.write(split[2]);
-      writeOut.flush();
-      writeOut.close();
+          writeOut.write(split[2]);
+          writeOut.flush();
+          writeOut.close();
+        }
+      }
 
       rawBlogContents.close();
     }
