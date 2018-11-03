@@ -61,7 +61,7 @@ public class Converter {
           split[i] = replaceSubstring (split[i], "&#8221;", "\"");
           split[i] = replaceSubstring (split[i], "\\\'", "'");
           //this one will convert browser newlines to markdown newlines
-          //split[i] = replaceSubstring (split[i], "\\r\\n", "<br>");
+          split[i] = replaceSubstring (split[i], "\\r\\n", "<br>");
 
           //convert <p> tags to markdown H6
           //split[i] = replaceSubstring (split[i], "<p>", "######");
@@ -90,7 +90,7 @@ public class Converter {
       FileWriter writeOut = new FileWriter("../../gatsby_files/typewriting_posts/src/pages" + path + ".md");
       //create post header per tutorial
       writeOut.write("---" + "\n");
-      writeOut.write("path: \"" +  dateTime.split(" ")[0] + path + "\" \n");
+      writeOut.write("path: \"" +  "/" + dateTime.split(" ")[0] + path + "\" \n");
       writeOut.write("date: \"" + dateTime + "\" \n");
       writeOut.write("title: \"" + split[1] + "\" \n");
       writeOut.write("---" + "\n");
