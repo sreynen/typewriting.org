@@ -109,6 +109,9 @@ public class Converter {
              }
           }
 
+          //handles special case when post title is wrapped in <q> tags
+          
+
             System.out.println(split[i]);
           }
 
