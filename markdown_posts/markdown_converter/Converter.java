@@ -96,8 +96,8 @@ public class Converter {
           //split[i] = replaceSubstring (split[i], "</p>", "");
 
           //update <em> and </em> tags to markdown italics
-          //split[i] = replaceSubstring (split[i], "<em>", "*");
-          //split[i] = replaceSubstring (split[i], "</em>", "*");
+          split[i] = replaceSubstring (split[i], "<em>", "*");
+          split[i] = replaceSubstring (split[i], "</em>", "*");
 
 
           //handles special case when post title is wrapped in quotes
@@ -106,11 +106,14 @@ public class Converter {
              (split[i].charAt((split[i].length()-1)) == '\"')) {
                split[i] = removeSingleBeginning(split[i], '\"');
                split[i] = removeSingleEnding(split[i], '\"');
-             }
+            }
+
+            split[i] = replaceSubstring (split[i], "<q>", "");
+            split[i] = replaceSubstring (split[i], "</q>", "");
           }
 
           //handles special case when post title is wrapped in <q> tags
-          
+
 
             System.out.println(split[i]);
           }
