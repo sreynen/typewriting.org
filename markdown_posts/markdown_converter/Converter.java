@@ -99,8 +99,11 @@ public class Converter {
           split[i] = replaceSubstring (split[i], "<em>", "*");
           split[i] = replaceSubstring (split[i], "</em>", "*");
 
+          //update deprecated <acronym> to <abbr>
+          split[i] = replaceSubstring (split[i], "<acronym", "<abbr");
+          split[i] = replaceSubstring (split[i], "</acronym>", "</abbr>");
 
-          //handles special case when post title is wrapped in quotes
+          //handles special post title cases
           if (i == 1) {
             if ((split[i].charAt(0) == '\"') &&
              (split[i].charAt((split[i].length()-1)) == '\"')) {
