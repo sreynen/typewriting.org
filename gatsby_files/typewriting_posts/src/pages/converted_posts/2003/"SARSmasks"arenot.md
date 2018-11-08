@@ -1,6 +1,0 @@
----
-path: "/2003/04/09/"SARSmasks"arenot" 
-date: "2003/04/09 09:24:59" 
-title: ""SARS masks" are not" 
----
-there are a large number of topics surrounding <abbr title="Severe Acute Respiratory Syndrome">SARS</abbr> i'd love to address, but i'll just tackle one here: the "<abbr title="Severe Acute Respiratory Syndrome">SARS</abbr> masks" myth. many people are perpetuating this myth, but <a href="http://www.timesonline.co.uk/article/0,,3-631568,00.html">leo lewis</a> should really know better. he wrote: <q>FOR the fashion-conscious east Asian there is no need to look dowdy while protecting yourself from Sars. The region, famous for the speed with which it produces designer knock-offs, has risen to the challenge of branding surgical masks...</q>. why should leo know better? because, according to his byline, he's in tokyo. anyone who has ever spent a day in south-east asia should know that these masks have been around for years to protect people from pollution and germs. they did not suddenly appear after <abbr title="Severe Acute Respiratory Syndrome">SARS</abbr>. they are no more "<abbr title="Severe Acute Respiratory Syndrome">SARS</abbr> masks" than the shirts <abbr title="Severe Acute Respiratory Syndrome">SARS</abbr> patients wear are "<abbr title="Severe Acute Respiratory Syndrome">SARS</abbr> shirts".
