@@ -111,6 +111,7 @@ public class Converter {
             split[i] = replaceSubstring (split[i], "<q>", "");
             split[i] = replaceSubstring (split[i], "</q>", "");
             split[i] = replaceSubstring (split[i], "/", "-");
+            split[i] = replaceSubstring (split[i], "\"", "'");
           }
 
           //handles special case when post title is wrapped in <q> tags

@@ -1,6 +1,0 @@
----
-path: "/2004/02/02/atom'sfirst"killerapp"" 
-date: "2004/02/02 01:20:21" 
-title: "atom's first "killer app"" 
----
-i should really create a separate weblog for all of my geekiness, but for now, i'll just notify you the reader in advance that this is a geeky post. i've been paying a little attention to the development of the atom format from the sidelines. it seemed at a brief glance to be a clearer standard than RSS, but clarity alone broad adoption does not make. now i see an application of the atom standard that i can't imagine ever happening with the competing standard(s). <a href="http://jerryandsarasteele.typepad.com/deez_steeles/2004/01/iphoto2typepad_.html">jerry steele</a> writes:<br><blockquote>I have just completed a prototype of an iPhoto2Typepad interface. That means that its now possible to select photos in iPhoto and directly export into a Typepad Photo Album. This is basically my Holy Grail of digital photo convenience. Now the same program we use to import, and organise our pictures can send them right to Typepad.</blockquote><br>(via <a href="http://boingboing.net/2004_01_01_archive.html#107560121220934508">boingboing</a>)
