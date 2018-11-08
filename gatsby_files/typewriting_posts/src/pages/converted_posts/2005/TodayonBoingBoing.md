@@ -1,0 +1,6 @@
+---
+path: "/2005/07/14/TodayonBoingBoing" 
+date: "2005/07/14 22:37:04" 
+title: "Today on BoingBoing" 
+---
+<a href="http://www.boingboing.net/2005/07/14/uspto_nixes_trademar.html">A post today on BoingBoing does a nice job of summarizing nearly everything that annoys me about the site</a>. The topic is tabloid material. There are no comments, so the post itself is updated whenever anyone manages to slip a comment through either the "suggest a site" form or the email of one of the contributors. And rather than taking the least bit of time to verify the factual information involved, completely false material is simply posted to the site and then later retracted. The only thing missing is the an ad for a product representing values BoingBoing's staff claim to oppose and completely unrelated to the topic at hand.<br>Yet BoingBoing continues to be the <a href="http://technorati.com/pop/blogs/">most popular blog of all, according to Technorati</a>. If this is the new media, I might just stick with the old.

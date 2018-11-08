@@ -1,0 +1,6 @@
+---
+path: "/2004/08/21/partisansgonewild" 
+date: "2004/08/21 15:45:52" 
+title: "partisans gone wild" 
+---
+a few days ago, <a href="http://www.siliconvalley.com/mld/siliconvalley/business/columnists/dan_gillmor/9415518.htm">dan gillmor</a> wrote <q>Of course, not even Microsoft's wildest partisans will claim that SP2 will turn the safety switch to "on'' in an all-encompassing way.</q> <a href="http://radio.weblogs.com/0001011/2004/08/19.html#a8108">robert scoble</a> proved dan wrong by responding <q>When he says "not perfect" that means that he believes it has a flaw that'll let an attacker in from the outside. That simply IS NOT TRUE.</q> yesterday, <a href="http://www.informationweek.com/story/showArticle.jhtml?articleID=29116685">information week</a> reported <q>Another flaw in Internet Explorer has been uncovered by Danish security firm Secunia, which said that the gaffe left all PC users open to attack, even those who had updated Windows XP with the massive Service Pack 2 upgrade.</q> clearly dan has made a major error in underestimating just how wild microsoft's partisans can get.

@@ -1,0 +1,6 @@
+---
+path: "/2005/10/20/Changes" 
+date: "2005/10/20 19:18:52" 
+title: "Changes" 
+---
+I keep update notification on in NetNewsWire. Often it's more annoying than helpful. <a href="http://plasticbag.org/">Tom Coates</a>' links, for example, are updated every day, for formatting not content, but I see them all as new when they are updated. But every once in a while I see something valuable in the updates. Most often on BoingBoing, because they don't have comments, so they post selected comments sent via email as addendums to the the original posts. And often the comments are more interesting than the original post.<br>But today I got another kind of treat via update notification:<br><img src="http://typewriting.org/image/article/content/delay.png" alt="Screenshot" /><br>Someone at the DNC obviously said "change that to point out that Delay is the Republican Leader and get the word 'criminal' in there too." This is why I don't like the Democratic Party much more than the Republican. I don't have much sympathy for Tom DeLay, but I think the Democrats can let him dig his own grave and concentrate on something else. Maybe health care? Education? Equal rights? Peace? I really hope Democratic candidates in 2006 and 2008 have a platform beyond "Republicans are bad." I'm getting awfully tired of voting for the lesser of two evils.

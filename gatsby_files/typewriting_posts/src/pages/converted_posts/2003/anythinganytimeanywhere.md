@@ -1,0 +1,6 @@
+---
+path: "/2003/07/31/anythinganytimeanywhere" 
+date: "2003/07/31 08:55:54" 
+title: "anything anytime anywhere" 
+---
+it wasn't until my last year of college that i experienced broadband internet access. and it wasn't until going without it that i realized how nice it was. the ability to access of information instantly at any time dramatically changes the experience of using the internet. questions i wouldn't bother to lookup in the dictionary or encyclopedia, nor bother dialing up to lookup on the internet, i will always lookup when doing so requires little more effort than typing a few words.<br>last month i first uses a wireless card and hub to connect. and today when that connection failed for some still unknown reason, i had the same experience of realizing how much the convenience has become a must. the leash of the ethernet cord that once seemed perfectly normal to me now seems as odd as <a href="http://palimpsest.stanford.edu/don/dt/dt0649.html">chained books</a>. soon enough a new generation will be growing up with as little use for modems or ethernet cords are as today's youth have for <a href="http://www.recordingmedia.org/news/rmonews.html">VHS</a>.

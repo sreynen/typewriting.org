@@ -1,0 +1,6 @@
+---
+path: "/2002/12/06/capitalization" 
+date: "2002/12/06 10:02:14" 
+title: "capitalization" 
+---
+i only capitalize in my weblog when i think not doing so will take away from readability -- mostly in acronyms, where a reader would otherwise begin to read them as words and then need to re-read. this all started during my freshman year of college, when i realized that we capitalize "i", but not "you". why do we do this? i still don't know, but at the time, i thought it was a formalization of self-importance. and as an idealistic young college student, i wanted nothing to do with self-importance. so i stopped capitalizing. i've long since forgotten about the original reasons for doing so, and now i just do it because it's easier and i'm (selectively) lazy. but i don't ignore capitalization in all cases. if i'm writing to someone i don't know, or in a formal context, i generally capitalize. but i consider my weblog a more informal context, so i don't capitalize here. i also don't change capitalization when quoting people, though i don't mind if others do so when quoting me.

@@ -1,0 +1,6 @@
+---
+path: "/2006/05/13/BetterBye" 
+date: "2006/05/13 16:11:08" 
+title: "Better Bye" 
+---
+It's been a long time since I've posted a new recording. In the meantime, I've acquired a new <a href="http://www.shure.com/microphones/models/sm57.asp">mic</a> and <a href="http://www.m-audio.com/products/en_us/FireWireSolo-main.html">audio input box</a>. I've also been teaching myself how to do multi-track recording: playing with a click track, re-recording specific sections without redoing the whole song, adding filters, fades, etc.<br>I have a lot left to learn, but I think I'm comfortable enough now that I can sit down for a couple hours and end up with something that doesn't sound altogether awful and could be easily improved in the future. For example, a song I did today called "Better Bye," in <a href="http://music.randomchaos.com/mp3s/scott_reynen/better_bye.mp3">MP3</a> and <a href="http://music.randomchaos.com/lyrics/scott_reynen/better_bye">lyrics</a>. I wrote it in the car after listening to <a href="http://www.lyricsdir.com/jackie-greene-sad-to-say-goodbye-lyrics.html">a song by Jackie Greene</a>. I think the original recording was on my cell phone. This is version one hundred and something. I have a fantasy that someday I'll record and post songs the day I write them. I'm not there quite yet.

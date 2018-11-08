@@ -1,0 +1,6 @@
+---
+path: "/2003/08/07/googlenewsalert+mailinator=customnewswebsite" 
+date: "2003/08/07 12:57:07" 
+title: "google news alert + mailinator = custom news website" 
+---
+my first reaction to <a href="http://www.google.com/newsalerts/">google's news alert service</a> was wishing it was an RSS feed instead of email. although i've wished before that an RSS feed was email, in this case i would prefer the temporary nature of RSS. if i go away for a week, i don't want my mailbox filling up with news that will be outdated by the time i read it. i just want the current news. then i remembered <a href="http://www.mailinator.com/">mailinator</a>, the web email system that allows anyone to check any address. so i subscribed a mailinator address to google's news alert system, and suddenly i have a custom news website at mailinator. and because mailinator automatically deletes older messages, it's a lot like RSS. now if only i could link directly to a mailinator account, i could scrape the content and convert it to RSS. but for now, this is good enough.

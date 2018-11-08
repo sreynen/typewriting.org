@@ -1,0 +1,6 @@
+---
+path: "/2003/08/07/websiteautodiscovery" 
+date: "2003/08/07 12:37:22" 
+title: "website autodiscovery" 
+---
+i'm about half done with adding RDF to RSS in the <a href="http://weblog.randomchaos.com/">job feeds</a>. when i started implementing, i realized i had done too much planning. because in the end, i'll just be providing whatever information i can take from the job websites. i've taken everything i can from hotjobs.com (short of following links to individual job descriptions). tomorrow i'll do the same with monster.com.<br>i was wrong about including alternate namespaces within the description of an RSS item. maybe i wasn't wrong that it is theoretically possible, but it breaks the feed in netnewswire lite. so i'm going to leave the information outside of the description, which means that i'll have duplicate content, both in the description and in the metadata. unfortunate, but still usable.<br>while attempting to include as much metadata as possible, i came up with what i think is a nifty hack. for companies that don't provide links to their websites, i'm using google's auto-forwarding feature to do a search for the company name and send the user on to the first result. because the company names are generally a few words long, and because most companies have websites, the first result has a pretty high likelihood of being the company website.

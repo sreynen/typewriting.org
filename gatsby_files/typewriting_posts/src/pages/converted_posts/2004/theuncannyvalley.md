@@ -1,0 +1,6 @@
+---
+path: "/2004/08/13/theuncannyvalley" 
+date: "2004/08/13 21:53:06" 
+title: "the uncanny valley" 
+---
+<a href="http://www.metafilter.com/mefi/34978">a metafilter post</a> points to <a href="http://en.wikipedia.org/wiki/Uncanny_Valley">a wikipedia article on the uncanny valley</a>, which is something i previous knew nothing about. apparently human responses to robots are increasingly positive as robots become increasingly human-like, up until robots are almost indistinguishable. at that point, our reactions to them take a steep negative turn, until the robots are complege indistinguishable, at which point the reactions are again positive (as they would be with humans).<br>i wonder if this same phenomenon affects issues such as racism, sexism, or homophobia. do we also react more negatively to people who are very similar to us, but slightly different in some way? for example, do men react to feminine men more negatively than to women - is there an uncanny valley of emotional responses to gender stereotypes? i'd be interested to see similar graphs with emotional response mapped against masculinity, skin color, age, and so on.

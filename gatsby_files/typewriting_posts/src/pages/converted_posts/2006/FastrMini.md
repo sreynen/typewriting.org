@@ -1,0 +1,6 @@
+---
+path: "/2006/05/01/FastrMini" 
+date: "2006/05/01 22:38:54" 
+title: "Fastr Mini" 
+---
+Since I made <a href="http://randomchoas.com/games/fastr/">an entrance page for fastr</a>, I've been thinking about making some sort of mini-game that could be played immediately to give people a taste of the full game. I suspect there are a lot of people going to the entrance page, not seeing the game they were promised, and leaving. I'd like those people to play the game. It's been a bit quiet lately, and it's not nearly as much fun to play alone.<br>So last night I was thinking about how to do this mini-game, and I realized I could do it all via a JavaScript include, and then other people could put the mini game on their own sites. So I'm testing that now. Once it's working okay, I'll put it up on the entrance page, and then write up instructions on how to add it to your own site.<br><script src="http://randomchaos.com/games/fastr/mini/en.js"></script><br>Testing... seems to be working okay. <a href="http://randomchaos.com/games/fastr/about/mini/">Here</a> are the instructions for putting it on your own site.

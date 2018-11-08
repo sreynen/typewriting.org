@@ -1,0 +1,6 @@
+---
+path: "/2004/10/24/zero-gcat" 
+date: "2004/10/24 21:18:44" 
+title: "zero-g cat" 
+---
+apparently a cat still lands on its feet even when there's no gravity, as <a href="http://www.usafa.af.mil/dfp/cockpit-phys/mov/cat.mov">this video</a> demonstrates. science at its best.

@@ -1,0 +1,6 @@
+---
+path: "/2007/05/18/HoladePeru" 
+date: "2007/05/18 14:16:07" 
+title: "Hola de Peru" 
+---
+I don't know how anyone uses the internet in Spanish. The keyboards make it very difficult. The @ symbol, for example, requires three keystrokes to produce. My apostrophes here are all non-curly because I can't figure out how to type the pound symbol. Surely there's an easier way we haven't yet discovered.<br>Anyway, all is well in Peru (for me anyway, the Incas apparently got screwed royally). The city we're currently in is thick with tourists, which has it's benefits (e.g. it's relatively safe to go anywhere as a tourist) and it's drawbacks (e.g. it's pretty much impossible to go anywhere without someone offering to sell us postcards).<br>Everything is pretty cheap, and we don't have much of a schedule prior to heading to Machu Picchu, so we're doing a lot of sitting around in various restaurants, eating new things, and watching new people. I'm making good headway on my book, catching up on sleep, using the internet sparingly, and generally relaxing. Vacation is going well.

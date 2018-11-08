@@ -1,0 +1,6 @@
+---
+path: "/2005/04/26/LessonsI'veRecentlyLearnedaboutMorelMushrooms" 
+date: "2005/04/26 20:59:02" 
+title: "Lessons I've Recently Learned about Morel Mushrooms" 
+---
+<ul><br>    <li>Morels tend to grow near dying - but not dead - trees, particularly elm and apple trees.</li><br>    <li>Morels generally grow in three phases, by color:<br>        <ol><br>            <li>Gray</li><br>            <li>Yellow</li><br>            <li>Black</li><br>        </ol><br>    </li><br>    <li>These phases combined usually last a month or two.</li><br>    <li>Animals don't eat mushrooms.</li><br>    <li>Turkey hunting is restricted to certain hours of the day.</li><br>    <li>Deer poop looks like piles of pebbles.</li><br>    <li>Morels should be picked at the stem, so a stump remains.</li><br>    <li>Picked morels should be carried in a net bag, so spores can drop and plant new mushrooms.</li><br>    <li>Morels should be soaked in salt water, to encourage bugs to depart.</li><br>    <br>    <li>Morels have a subtle taste, so breading should be only lightly seasoned.</li><br>    <li>Black shirts should not be worn while breading morels (or anything).</li><br>    <li>Plastic forks should not be used near frying morels (or anything).</li><br>    <li>I should not be allowed near frying morels.</li><br>    <li>Even poorly fried wild morels taste pretty good.</li><br></ul>

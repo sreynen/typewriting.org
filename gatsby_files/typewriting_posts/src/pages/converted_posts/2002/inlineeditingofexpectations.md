@@ -1,0 +1,6 @@
+---
+path: "/2002/11/13/inlineeditingofexpectations" 
+date: "2002/11/13 22:25:07" 
+title: "inline editing of expectations" 
+---
+one of my news feeds contains the following description of an article: "Now, a computer in every othe rroom isn't just for itinerant geeks (like me)." i can't link you to anything that will show you that sentence, because the actual article doesn't have the same typo, and the typo is the whole reason i think this is interesting. the typo, you may have noticed was "othe rroom", which should have been "other room". when i read this, i first noticed the missing "r" on "othe" and mentally corrected the mistake. then i noticed the extra "r" on "rroom" and mentally corrected that mistake (which, upon further reflection proves to be just another part of the same mistake). then when i got to "itinerant", i assumed the word was meant to be "internet" and had been mistyped, and i mentally edited it. when i got to the end of the sentence, i wasn't sure what it meant, so i re-read it and realized that "itinerant" is actually a word and not a typo of "internet". the interesting (i think) point here is that within the few seconds during which i read this one sentence, i adjusted my evaluation of the typers tendancy toward mistakes and accordingly adjusted my own tendancy to assume mistakes have been made. brains are amazing.

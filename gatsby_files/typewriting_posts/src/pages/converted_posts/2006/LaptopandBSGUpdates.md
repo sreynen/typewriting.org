@@ -1,0 +1,6 @@
+---
+path: "/2006/10/21/LaptopandBSGUpdates" 
+date: "2006/10/21 14:56:07" 
+title: "Laptop and BSG Updates" 
+---
+I've fallen a bit behind in my <a href="http://typewriting.org/2006/10/16/2006_Election%3A_How_I_Voted/">Election 2006</a> series because none of <a href="http://typewriting.org/2006/10/15/Sleepy_Laptop/">my previous theories about my laptop's narcolepsy</a> really worked. When it started falling asleep during work, I moved to a new (for me) laptop. That's update number one.<br>Number two is that, contrary to <a href="http://typewriting.org/2006/10/11/Battlestar_Galactica_Season_Three/">my expectations of the plot of Battlestar Galactica</a> season three, it appears the good guys have pretty much already won only three weeks in. I haven't watched the week three show yet, but if the foreshadowing in the week two show and the title of <a href="http://homepage.mac.com/dave_rogers/GHD10-06.html#note_3056">Dave's recent post</a> (which I haven't read yet for fear of spoiling week three) are any indication, what I thought was going to take the whole season is already over. So hopefully what comes next will have a little more moral ambiguity.<br>And I'll get back to devaluing the privacy of our election process when I return from yet another weekend trip. Hopefully I'll finish before election day.

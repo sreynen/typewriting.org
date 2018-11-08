@@ -1,0 +1,6 @@
+---
+path: "/2002/10/16/america'scareerinfonet" 
+date: "2002/10/16 22:28:59" 
+title: "america's career infonet" 
+---
+<a href="http://www.acinet.org/">america's career infonet</a> contains a wealth of information about career opportunities anywhere in america. it's a rare instance of using public taxes in the public's interest.

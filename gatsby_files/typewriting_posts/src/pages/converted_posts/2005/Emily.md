@@ -1,0 +1,6 @@
+---
+path: "/2005/12/04/Emily" 
+date: "2005/12/04 18:19:11" 
+title: "Emily" 
+---
+So I took my newly acquired recording skills and applied them to a song I wrote way back in high school, Emily (<a href="http://music.randomchaos.com/lyrics/scott_reynen/emily">lyrics</a>, <a href="http://music.randomchaos.com/mp3s/scott_reynen/emily.mp3">MP3</a>). I'm pretty sure I recorded it previously, but I can't find any recording of it, so I made a new one, and added a new verse on the end that totally changes what the song is about. (Before Emily was the antagonist &#8212; now she's the protagonist.)<br>I'm sure there's more I could improve, but after spending over two hours on one song, I'm done with it for now. I could have played two dozen songs in that time and instead I just played the same one over and over and over. This recording stuff is hard work. I guess that's why pros pay other people to do it.<br>I don't think I significantly slowed the song down, but it ended up over seven minutes, so hopefully it's not awful, or it will be a whole lot of awful. I probably went overboard on the instrumentation: rhythm guitar, lead guitar, drum, harmonica, and voice. It's hard to listen to it after playing it so much, but I think it turned out okay. In any case, it's good practice, and maybe the next song won't take so long.

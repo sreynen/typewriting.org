@@ -1,0 +1,6 @@
+---
+path: "/2005/11/01/ReversiGameLog" 
+date: "2005/11/01 19:06:40" 
+title: "Reversi Game Log" 
+---
+I was looking at my server logs, trying to figure out what happened to <a href="http://typewriting.org/2005/11/01/Database_Trouble/">overload my database</a> this morning, and unfortunately (or fortunately?), I didn't see anything odd, so I've turned the <a href="http://www.randomchaos.com/database/">database viewer</a> back on for now.<br>What I did see, though, was a reversi game being played out in the logs. Because the <a href="http://www.randomchaos.com/games/reversi/">reversi game</a> sends the entire board in the query string, the entire game shows up in the log, which makes an interesting visualization (you'll need to scroll to see it all):<br><div style="overflow: auto; width: 580px;"><img src="http://typewriting.org/image/article/content/reversi.png" /></div><br>I intend to some day redo the reversi game with more of a split between client and server, to make it possible to play across sites. At the same time, I'll probably hide more of the moving parts behind the curtain, so games will no longer be visualized in my logs. But it's interesting to look at for now. Looks like X won the game.

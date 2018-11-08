@@ -1,0 +1,6 @@
+---
+path: "/2003/12/26/onthesideofhumanity" 
+date: "2003/12/26 01:22:29" 
+title: "on the side of humanity" 
+---
+this (christmas) morning, i read this <a href="http://news.bbc.co.uk/1/hi/uk/3347619.stm">BBC article</a> summary:<br><blockquote>The Archbishop of Canterbury has appealed to the secular world to overcome its mistrust of religion.</blockquote><br>and i thought to myself, "if the archbishop is really interested in overcoming mistrust of religion, he should call on the religious to stop doing things that generate that mistrust." then i read the rest of the article:<br><blockquote><br>Dr Williams said part of the reason lay in the misuse of faith for oppression and violence, as an alibi for atrocity.<br>The Archbishop called on Christians to show their faith was "on the side of humanity".<br>...<br>The Archbishop said religious faith had too often become the "language of the powerful".<br></blockquote><br>i'm happy to see someone of authority within the church publicly recognizing these problems, when a question like "<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0807010332/">is god a white racist?</a>" is not clearly answered by the church.
