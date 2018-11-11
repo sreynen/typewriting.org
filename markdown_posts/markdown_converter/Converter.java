@@ -89,8 +89,8 @@ public class Converter {
           //this one will convert browser newlines to markdown newlines
             split[i] = replaceSubstring (split[i], "\\r\\n", "<br>");
 
-          split[i] = replaceSubstring (split[i], "<p>", "");
-          split[i] = replaceSubstring (split[i], "</p>", "");
+          //split[i] = replaceSubstring (split[i], "<p>", "");
+          //split[i] = replaceSubstring (split[i], "</p>", "");
 
           //update <em> and </em> tags to markdown italics
           split[i] = replaceSubstring (split[i], "<em>", "*");
