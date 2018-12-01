@@ -1,0 +1,6 @@
+---
+path: "/2003/10/12/steve's_is_better" 
+date: "2003/10/12 21:45:22" 
+title: "steve's is better" 
+---
+<p>credit where due: <a href="http://minutillo.com/steve/weblog/2003/5/15/character-to-entity-encoder-bookmarklet#comments">steve minutillo</a> asks:</p><br><blockquote><p>Why would you use a <a href="http://minutillo.com/steve/convert/">ridiculous page like this one</a> to convert non-ASCII characters to HTML entities when a totally sweet <a href="javascript:(function(){function entities(e){f=e.value;t='';for(i=0;i%3Cf.length;i++){if(f.charCodeAt(i)%3E127){t+='%26#'+f.charCodeAt(i)+';';}else{t+=f.charAt(i);}}e.value=t;}l=document.getElementsByTagName('textarea');for(j=0;j%3Cl.length;j++){entities(l[j])}l=document.getElementsByTagName('input');for(j=0;j%3Cl.length;j++){if(l[j].type=='text')entities(l[j])}})()">bookmarklet</a> is available?</p></blockquote><br><p>he links to his own implementation of a utf-8 to unicode entity converter, but he might as well be linking to <a href="http://www.randomchaos.com/language/japanese-unicode.php">mine</a>, which is put to shame by his slick bookmarklet. and to think just yesterday it was cutting edge (impossible, even). great job steve.</p>

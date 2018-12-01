@@ -1,0 +1,6 @@
+---
+path: "/2002/10/27/this_is_recursive" 
+date: "2002/10/27 19:14:47" 
+title: "this is recursive" 
+---
+<p>i had a dream last night that i had an idea for a game that i didn't (and don't) have the capacity to actually create, but i thought it was such a great idea, so i was writing about it on my weblog (as i am recursively doing right now). now that i'm awake, i realize that i don't have a great idea for a game, but instead have a rather vague idea for what would probably be a very bad game, but i am going to write about it anyway.</p><br><p>in the game, you have a building, and the goal of the game is to keep your building together. perhaps it is attacked by earthquakes, or perhaps by other players - this much wasn't clear in my dream. anyway, what i thought in my dream was the great idea was that the structure of your building would be created by the game analyzing the structure of your website in such a way that a well-structured website would generate a well-structured building in the game. so if you have a better website, you have an advantage at the beginning of the game. anyway, that was my dream.</p>

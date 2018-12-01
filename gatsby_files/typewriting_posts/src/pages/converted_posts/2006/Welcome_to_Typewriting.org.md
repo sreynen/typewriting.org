@@ -1,0 +1,6 @@
+---
+path: "/2006/11/12/Welcome_to_Typewriting.org" 
+date: "2006/11/12 13:57:40" 
+title: "Welcome to Typewriting.org" 
+---
+<p>Most likely you arrived here thinking you were heading to weblog.randomchaos.com. I'm sorry to inform you that weblog.randomchaos.com no longer exists. On the bright side, typewriting.org, this site, is here as a replacement. And it comes with a shiny new design and shiny new functionality.</p><br><p>I've spent a lot of time moving everything over, redirecting all the old to the new, and trying to get it all looking pretty in the major browsers. Some things still look ugly in IE, but that's the norm for IE users, so I'm going to stop fighting with it for now. Otherwise, I *think* it's all pretty close to what I had in mind back <a href="http://typewriting.org/2006/05/26/Changes_are_Coming/#content">when I said</a> <q>Surely muted earth tones will improve my writing.</q></p><br><p>So if you notice anything broken or confusing, please let me know with the fancy new comment form. Otherwise, it's time for me to get back to writing.</p>

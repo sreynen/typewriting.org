@@ -1,0 +1,6 @@
+---
+path: "/2006/06/21/Microformat_Greasemonkey_Scripts" 
+date: "2006/06/21 19:58:28" 
+title: "Microformat Greasemonkey Scripts" 
+---
+<p>Yesterday I made <a href="http://greasemonkey.makedatamakesense.com/callto_tel/">a Greasemonkey script</a> to detect telephone numbers in <a href="http://microformats.org/wiki/hcard">hCards</a> and wrap them in <a href="http://msdn.microsoft.com/library/default.asp?url=/library/EN-US/netmeet/nm3_1l4o.asp">callto: links</a> to launch <abbr title="Voice Over Internet Protocol">VOIP</abbr> tools (e.g. <a href="http://skype.com/">Skype</a>). This is the kind of thing I do to satisfy my own curiosity, assuming no one will ever use. Another such project was the <a href="http://greasemonkey.makedatamakesense.com/google_hcalendar/">Google hCalendar</a> Greasemonkey script I did a while back, except I did that one in exchange for a free <a href="http://www.oreilly.com/catalog/greasemonkeyhks/">book</a>. And it's now being <a href="http://upcoming.org/tools/microformats/ycalhcal.user.js">used by Yahoo</a>.</p>

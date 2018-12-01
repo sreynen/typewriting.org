@@ -1,0 +1,6 @@
+---
+path: "/2005/08/09/A_Road_to_Desktop_Web_Apps" 
+date: "2005/08/09 23:09:58" 
+title: "A Road to Desktop Web Apps" 
+---
+<p><a href="http://developer.apple.com/technotes/tn2005/tn2139.html#TNTAG13">Apple's Dashboard</a> has a developer mode that lets you pull a widget off the Dashboard and onto the desktop, where it hovers over everything else, except another widget that has been selected more recently. It occurred to me today that somewhere Apple must be storing information about whether or not each widget is on the desktop, what layer each widget is on (relative to other widgets), the location of each widget, and more.</p><br><p>It doesn't take much more to make a window manager. If someone could figure out where this information is stored, and how to edit it, they could create a run time environment that allows widgets to be run as desktop applications. It seems inevitable to me that eventually the functionality of web applications will be build into the OS, but it would be neat to see someone give Apple a little push in that direction.</p>

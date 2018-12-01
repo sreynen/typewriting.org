@@ -1,0 +1,6 @@
+---
+path: "/2002/12/09/amazon_recommendations.opml" 
+date: "2002/12/09 23:38:20" 
+title: "amazon recommendations.opml" 
+---
+<p>i really love amazon.com's recommendations. yesterday, i almost made an ironic sort of complaint that amazon.com was recommending that i buy the very camera i just bought. they should really have an "i own this" button. well, they do, i just missed it. something they *don't* have that i would like is the ability to make my recommendations list available for public viewing. i know i can make a wish list, but my recommendations list is good enough that i'd rather just make that available for potential gift-givers to browser. it also gives a pretty good idea of the types of things i'm interested in, making it a nice introduction for people who don't know me. i'd like to see an amazon feature allowing me to export my recommendations list as an opml file, so i could do whatever i wanted with it. but i'd settle for a branded html page with links to all my recommendations on amazon. this would be good for me, and also good for amazon, because it would direct more traffic to amazon.com.</p>

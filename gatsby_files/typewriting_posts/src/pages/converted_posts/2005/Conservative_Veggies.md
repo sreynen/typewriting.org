@@ -1,0 +1,6 @@
+---
+path: "/2005/11/06/Conservative_Veggies" 
+date: "2005/11/06 18:01:30" 
+title: "Conservative Veggies" 
+---
+<p>What I like most about the web is how the anarchy of it all encourages niche groups that never would have formed otherwise. The most common example, I think, is the gay teen in Idaho who might have killed himself if not for some online gay teen community.</p><br><p>On the other end of the spectrum, perhaps, is <a href="http://www.conservativeveggie.com/">Conservative Veggie</a>: "for the veggie who's right." Discussion topics include "<a href="http://www.conservativeveggie.com/messageboard/viewtopic.php?t=102">What Do You Think Of Alito's Investment in Slaughterhouses?</a>" "<a href="http://www.conservativeveggie.com/messageboard/viewtopic.php?t=65">Vitamin D 3</a>," "<a href="">Churches are Ignoring the Plight of Animals</a>," and simply "<a href="http://www.conservativeveggie.com/messageboard/viewtopic.php?t=92">Guns</a>." I just love how the people have almost nothing in common beyond being vegetarian and voting Republican.</p>

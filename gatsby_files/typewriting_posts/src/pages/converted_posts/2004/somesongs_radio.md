@@ -1,0 +1,6 @@
+---
+path: "/2004/01/31/somesongs_radio" 
+date: "2004/01/31 00:46:23" 
+title: "somesongs radio" 
+---
+<p><a href="http://www.bradsucks.net/archives/000410.php">brad sucks</a> writes <q>I post my songs to <a href="http://www.somesongs.com/">Somesongs</a> to get rated and my feelings hurt. Now there's <a href="http://www.songhole.org:8004/">Somesongs radio</a> and it's pretty awesome.</q> i first heard about somesongs through brad, and posted some songs there last week to get rated and my feelings hurt. actually, the music itself was better recieved than i had expected. mostly just the recording quality was criticized, so i'm learning how to use a more complicated audio recording application now, and hopefully i'll have some better recordings to show for it soon. anyway, i'm not sure if the music i submitted is on <a href="http://www.songhole.org:8004/">somesongs radio</a>, but it's good (and free to download) music in any case.</p><br><p>*update*: i just heard one of my songs on the stream. it's almost as exciting as being on analog radio.</p>

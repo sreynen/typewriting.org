@@ -1,0 +1,6 @@
+---
+path: "/2006/02/18/This_is_Important!" 
+date: "2006/02/18 11:46:32" 
+title: "This is Important!" 
+---
+<p><a href="http://my.opera.com/stopthefunny/blog/show.dml/148449">Stop The Funny#8482; writes</a> <q>My personal view is that branding and marketing are, strategically, value free. What counts are the questions and answers you feed into the machine.</q> I think this wrongly assumes the machine will accept any questions and answers. In reality, you can only market *for* something's *increasing* importance. There's no way to market the unimportance of something.</p><br><p>So we have marketing for the importance of Coke and marketing for the importance of Pepsi, but there's no marketing for the (true) idea that *neither* are important. There's no one advertising *against* anything. In many cases, it's even illegal to do so. I couldn't possibly run marketing saying "Coke is crap. It's just a bunch of chemicals that are rotting your body and some drugs that make you want to keep drinking it. And Pepsi is the same thing in a different package. Neither are important to your happiness or well-being, so stop buying them."</p>

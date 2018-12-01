@@ -1,0 +1,6 @@
+---
+path: "/2004/02/10/why_you_should_care_about_the_deficit" 
+date: "2004/02/10 06:21:36" 
+title: "why you should care about the deficit" 
+---
+<p><a href="http://www.winterspeak.com/2004_02_01_archive.html#107616980644349003">zimran</a> writes <q>The harm from deficit spending comes from what it does to the interest rate -- by raising rates it crowds out private investment and this is bad for growth. But the problem is not the deficit itself -- that can be rolled over indefinitely.</q> i'm no economist, but it seems to me this ignores what's actually happening. it's questionable that a deficit can actually be rolled over indefinitely, but whatever you think about this assertion, the fact remains that the US deficit *is not* simply rolled over. the US federal government spends over 300 billion dollars each year just to pay the *interest* that results from the enormous national debt. that's <a href="http://www.kowaldesign.com/budget/percentages.html">about 13% of the entire budget</a>. 300 billion dollars is a lot of money that could be better spent on education, health care, or defense.</p>

@@ -1,0 +1,6 @@
+---
+path: "/2003/11/24/computer-generated_music" 
+date: "2003/11/24 22:08:05" 
+title: "computer-generated music" 
+---
+<p><a href="http://www.nytimes.com/2003/11/23/arts/music/23WERD.html">the new york times</a> has an interesting article about new "voice fonts":</p><br><blockquote>These fonts are made up of a database of phonemes, the basic sounds that make up any language. To create the database, technicians record a singer performing as many as 60 pages of scripted articulations (like "epp, pep, lep"). Assorted pitches and techniques like glissandos and legatos are also thrown in the mix; with all the combinations, the process takes a week of five-hour singing days.</blockquote><br><p>i'd really love to hook this, or something like it, up to my <a href="http://www.randomchaos.com/language/poetry.php">computer-generated poetry page</a> (which also uses a database of phonemes) to produce computer-generated music. it doesn't look likely i'll be able to do something like this any time soon, but maybe some day.</p>
