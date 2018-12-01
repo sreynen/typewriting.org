@@ -1,6 +1,0 @@
----
-path: "/2006/04/14/GooglehCalendar" 
-date: "2006/04/14 11:24:52" 
-title: "Google hCalendar" 
----
-<p><a href="http://randomchaos.com/software/firefox/greasemonkey/googlehcalendar/">Google hCalendar</a> is a Firefox Greasemonkey script I made. It looks for <a href="http://www.randomchaos.com/microformats/base/?key=vevent">pages with</a> <a href="http://microformats.org/wiki/hcalendar">vevents</a> and inserts a button to add each found event to Google Calendar. <strike>I'm still working out some time zone oddities</strike> Apparently many of the sites using hCalendar have improper time zone markup (e.g. every event is marked as <a href="http://www.google.com/search?q=define:utc">UTC</a>-7 at <a href="http://upcoming.org/">Upcoming.org</a>), but it otherwise seems to work fine. Now I'm looking forward to my <a href="http://microformats.org/discuss/mail/microformats-discuss/2006-April/003669.html">free book</a>. Oddly enough, I'm actually working on another project right now in exchange for free magazines. You can keep your <a href="http://en.wikipedia.org/wiki/Attention_economy">attention economy</a>; I'm going back to bartering. Will code for interesting reading.</p>

@@ -123,7 +123,7 @@ public class Converter {
 
       //finagle things for post frontmatter header
           String dateTime = replaceSubstring (split[3], "-", "/");
-          String path = "/" + replaceSubstring (split[1], " ", "");
+          String path = "/" + replaceSubstring (split[1], " ", "_");
           String postYear = (dateTime.split("/"))[0];
 
       //writing contents out to markdown goes here

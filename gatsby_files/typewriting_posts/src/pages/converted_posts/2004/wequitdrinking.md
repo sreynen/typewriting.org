@@ -1,6 +1,0 @@
----
-path: "/2004/01/03/wequitdrinking" 
-date: "2004/01/03 09:17:13" 
-title: "we quit drinking" 
----
-<p><a href="http://wequitdrinking.typepad.com/blog/">we quite drinking</a> is <q>A blog by and about people who have chosen to not drink alcohol</q>. i'm not quite one of these people, but i'm close. i don't drink alcohol around anyone i don't know. i've read enough about alcoholism, and i'm paranoid enough about the unintended consequences of my own behaviour on others, that i worry drinking in public may enable some alcoholic near me to relapse while i sit there entirely unaware of that happening. i mention this not so much to suggest others might do the same, but rather to point out how strange i am. i'd also like to point out that i'm fully aware of how conveniently my position on drinking aligns with my discomfort with being in bars, the health risks drinking poses to a diabetic, and several other factors. but when i talk to myself about why i'm not drinking (mentally, of course - i'm not *that* strange), i do so in terms of unintended consequences.</p>

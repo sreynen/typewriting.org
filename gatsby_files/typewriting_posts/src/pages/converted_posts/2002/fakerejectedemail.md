@@ -1,6 +1,0 @@
----
-path: "/2002/11/03/fakerejectedemail" 
-date: "2002/11/03 11:22:39" 
-title: "fake rejected email" 
----
-<p>i get my fair share of spam. most of it is easily identifiable as either a get-rich-quick scheme or a get-stuff-cheap scheme. but yesterday and today i recieved four messages from "mail administrator"s and "daemon"s notifying me that messages i had sent to email addresses i'd never heard of with content i'd never seen had been rejected. some messages were rejected because the email address was invalid. others were identified as unsolicited bulk email. two shared the same content. the other two did not. the important point here is that i didn't send these messages.</p><br><p>i know that one of two things happened: 1) someone else somehow sent these messages and made it look as if i sent them. 2) the "return" emails i'm getting are themselves fake. it is important to me to know which of these is true because if #1 is true, and i don't reply, i risk my domain being blacklisted as a source of spam. but if #2 is true, and i do reply, i will basically be sending spammers the following notice: "please send me more spam. i am reading your email." so how do i know what is happening? i don't, really, but i'm guessing #2. i hope i'm right.</p>

@@ -1,6 +1,0 @@
----
-path: "/2003/05/26/gallodon'tgo" 
-date: "2003/05/26 09:31:10" 
-title: "gallo don't go" 
----
-<p>my favorite movie is "<a href="http://www.imdb.com/Title?Buffalo+'66+(1998)">buffalo '66</a>", which was written by, directed by, and stars <a href="http://www.imdb.com/Name?Gallo,%20Vincent">vincent gallo</a>. before seeing this movie, i had no idea who vincent gallo was, and i still have never seen anything else he's done. the movie seems to be largely based on vincent's life, which is probably why it's so great.</p><br><p>unfortunately, <a href="http://story.news.yahoo.com/news?tmpl=story&amp;cid=638&amp;ncid=579&amp;e=1&amp;u=/nm/20030523/en_nm/arts_cannes_gallo_dc">vincent gallo has vowed to quit the movie industry</a> after his latest film, "<a href="http://www.imdb.com/Title?0330099">the brown bunny</a>", was actually met with booing. now i'll have to get myself a copy of "the brown bunny". it must surely be interesting to warrent such negative reviews. i think it's safe to assume gallo will never make another film comparable to "buffalo '66". but after seeing the potential, i'm still saddened by the prospect of gallo leaving the industry.</p>

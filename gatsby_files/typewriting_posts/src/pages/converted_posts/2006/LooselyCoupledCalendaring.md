@@ -1,6 +1,0 @@
----
-path: "/2006/02/11/LooselyCoupledCalendaring" 
-date: "2006/02/11 01:01:53" 
-title: "Loosely Coupled Calendaring" 
----
-<p>I took a stab at adding <a href="http://microformats.org/wiki/hatom">hAtom</a> markup to the <a href="http://www.randomchaos.com/microformats/base/">Microformat Base</a> (and prettied it up a bit). I'm not sure if it's valid hAtom, because there's not yet anything to validate hAtom. But it's valid XHTML and it's structured information, so it can be parsed to syndicate this data.</p><br><p>For example, someone could (and should) subscribe to <a href="http://www.randomchaos.com/microformats/base/?key=dtstart&amp;value=2006">all Microformat Base events for 2006</a>, and run each new page through <a href="http://www.lifelint.net/">lifelint</a> to generate RDF or iCal files, which can then be combined to create a yearly calendar. Different calendars could be generated from different searches, and you could even pull tags out of the pages, lookup the tags on flickr, and use the related photos as monthly calendar images for printable calendars.</p><br><p>All the data is there, structured, waiting to be parsed and used for something interesting.</p>

@@ -1,6 +1,0 @@
----
-path: "/2002/11/21/onecentemail" 
-date: "2002/11/21 01:11:20" 
-title: "one cent email" 
----
-<p><a href="http://www.joelonsoftware.com/news/20021114.html">joel on software</a>: <q>Here's what I'd like to see: a system that delivers an email for one cent.</q> this sounds like such a great idea until i consider how much email i send. hmmm. what about a system where you would pay five cents to be auto-validated by the recipient. this would be a one-time only fee, a paid whitelist. i would pay one time to send an email to my friend, and my email would show up in her inbox as not-spam. then any emails i send to her after that would go through for free because her email client would remember my email address. a spammer could theoretically pay the five cents to get the first email through, but after that, my friend could remove the email address from the valid list, and the spammer would have to pay another five cents to get another email through (from a new email address). the server could keep one cent, and give the recipient four cents credit. i'd use it.</p>

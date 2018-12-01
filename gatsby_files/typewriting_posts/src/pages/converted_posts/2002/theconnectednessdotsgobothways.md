@@ -1,6 +1,0 @@
----
-path: "/2002/11/22/theconnectednessdotsgobothways" 
-date: "2002/11/22 00:11:52" 
-title: "the connectedness dots go both ways" 
----
-<p>the bright side to my computer failing to connect to my internet service provider after minutes (yes, *minutes*!) of trying is that i just noticed that the little dots of connectedness are animated in the opposite direction when the modem is connecting and disconnecting in mac os x. i don't know if windows xp does this, but i doubt it. i give a different answer every time someone asks me why i like macs. sometimes i try to explain that nearly everyone uses now whatever operating system was installed on the first computer she or he used frequently. other times, i try to pretend i have some sort of requirements of a computer that can't be met by windows. occassionally i admit that windows "just feels boxy to me". but next time someone asks me this question, i'll tell them i like macs because the connectedness dots go both ways. they should make a commercial that's just a big close-up of the connectedness icon while it connects and disconnects, and then have it fade to an apple while a voice-over says "apple: the connectedness dots go both ways." hmm...i guess i could make that commercial with imovie. maybe i will.</p>

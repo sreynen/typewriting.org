@@ -1,6 +1,0 @@
----
-path: "/2003/01/18/QuotEdit0.9" 
-date: "2003/01/18 16:41:08" 
-title: "QuotEdit 0.9" 
----
-<p><a href="http://www.randomchaos.com/qml/quotedit/">QuotEdit 0.9</a> was released today with the following improvements:</p><br><ul><br>	<li><strong>Bug fixes</strong>. All known bugs were fixed.</li><br>	<li><strong>Persistent document-file connection</strong>. QuotEdit no longer has File-Open or File-Save menu items. New files are automatically created in a user-specified directory. Existing files can be opened by dragging them into any application window (or onto the application icon). Files are saved periodically and before windows are closed, so the user doesn&apos;t need to worry about saving files.</li><br>	<li><strong>Find and Replace All</strong>. Users can find any text within quotations and (optionally) replace the text.</li><br>	<li><strong>Preferences</strong>. Users can now specify default values for new quotations.</li><br>	<li><strong>Improved printing</strong>. Quotations are never split between two pages now.</li><br></ul>

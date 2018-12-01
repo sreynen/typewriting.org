@@ -1,6 +1,0 @@
----
-path: "/2004/05/26/subscriptionhubs" 
-date: "2004/05/26 03:45:09" 
-title: "subscription hubs" 
----
-<p>about six months ago, <a href="http://weblog.randomchaos.com/index.php?date=2003-11-18&amp;title=subscriptions">i wrote</a> "when new content arrives, it will be automatically sent out to applications that can handle it." <a href="http://inessential.com/?comments=1&amp;postid=2857">today, brent simmons, author of netnewswire, writes</a> "The idea as I understand it is this: your feedreader, like your browser and email app, is a hub of information. It makes sense to want to route information from the hub to other applications." cool.</p><br><p>it's not clear to me whether such routing will be automatic (as i had imagined) or will require some action on the part of the user. the latter wouldn't be nearly as cool, but the former would require a level of labeling that most syndication feeds are lacking.  if i have an RSS feed of events, for example, how would the feedreader know to automatically route those events to my calendar? i suspect in the near term, i'll have to tell it with each event. but at least that's better than copying and pasting the information.</p>

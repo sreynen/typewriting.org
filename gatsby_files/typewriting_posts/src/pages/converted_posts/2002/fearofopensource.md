@@ -1,6 +1,0 @@
----
-path: "/2002/10/24/fearofopensource" 
-date: "2002/10/24 23:28:58" 
-title: "fear of open source" 
----
-<p><a href="http://www.docuverse.com/blog/donpark/2002/10/21.html#a103">don park</a> fears the new <a href="http://osafoundation.org/">open source application foundation</a>: "What I am afraid of is the erosion in the sense of value for software.  If OSAF succeeds, consumers will have access to a wide array of high quality software for free.  Most likely, every PC will start to ship with them preloaded.  Every time a new OSAF product ships, a market segment will dies.  OSAF paints a picture of the future where consumers are expected to pay for contents and services, but software is free."</p><br><p>granted, i'm not a professional software developer, but this scenario excites me rather than scaring me. i have trouble imagining a world in which quality software developers couldn't find some job that would either allow them to continue creating software, or pay them enough that they could create software in their off-time. in any case, there's nothing wrong with being frightened by someone else's willingness to give away for free what you charge good money for, but in the end, there's nothing you can do about it (you can't force them to charge money).</p>

@@ -1,6 +1,0 @@
----
-path: "/2005/04/27/Mr.SmithLovesFilibusters" 
-date: "2005/04/27 18:53:17" 
-title: "Mr. Smith Loves Filibusters" 
----
-<p>From <cite><a href="http://www.filmsite.org/mrsm3.html">Mr. Smith Goes to Washington</a></cite>:</p><br><blockquote><p>Half of official Washington is here to see democracy's finest show, the filibuster, the right to talk your head off, the American privilege of free speech in its most dramatic form. The least man in that chamber, once he gets and holds that floor by the rules, can hold it and talk as long as he can stand on his feet providing always, first, that he does not sit down, second, that he does not leave the chamber or stop talking. The galleries are packed. In the diplomatic gallery are the envoys of two dictator powers. They have come here to see what they can't see at home. DEMOCRACY IN ACTION.</p></blockquote><br><p>This was my introduction to the filibuster, and a reinforcement of the innocent idea that anyone can create change in this democracy. I'm surprised no one in the Democratic Party has thought to use this well-known movie to tie these two ideas together. I can't imagine a more effective defense of the filibuster than <cite>Mr. Smith Goes to Washington</cite>, short of finding a new Bible verse that says "Jesus loves filibusters."</p>

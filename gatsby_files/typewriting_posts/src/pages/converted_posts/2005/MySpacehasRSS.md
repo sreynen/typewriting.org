@@ -1,6 +1,0 @@
----
-path: "/2005/09/07/MySpacehasRSS" 
-date: "2005/09/07 07:58:07" 
-title: "MySpace has RSS" 
----
-<p>As <a href="http://typewriting.org/2004/12/26/myspace_RSS_feeds_to_save_time/#comment-1437">Brendan kindly pointed out in comments</a>, <a href="http://www.myspace.com/">MySpace</a> has (finally) added RSS feeds for blogs, so there's no longer any need to use <a href="http://typewriting.org/2004/12/26/myspace_RSS_feeds_to_save_time/">my MySpace feed scraping tool</a>. Hopefully a <a href="http://www.google.com/search?q=myspace+rss">Google search for myspace RSS</a> will soon start returning MySpace as the top result (or at least on the first page!) rather than me. I'll try to get around to editing the tool soon so it redirects to MySpace's version of the feed<strike>, which seems to be pretty much identical</strike>.</p><br><p>Update: it turns out my aggregator was still showing me the previous content and MySpace's RSS feeds are a bit more limited than what I've been offering, so I might keep the tool running until they improve their own feeds.</p>

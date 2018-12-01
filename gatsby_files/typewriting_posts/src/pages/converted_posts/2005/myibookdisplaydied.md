@@ -1,6 +1,0 @@
----
-path: "/2005/02/09/myibookdisplaydied" 
-date: "2005/02/09 18:46:39" 
-title: "my ibook display died" 
----
-<p>yesterday the screen on my ibook went black. i restarted, and heard the sounds of a functional ibook, but no image on the screen.  i expected i had just lost a recent $600 investment, but i used my other ibook to look for potential solutions to this problem, and quickly discovered that my ibook was one of a series with a <a href="http://www.apple.com/support/ibook/faq/">known defect</a>. i confirmed this with apple's support today and they are going to fix it free of charge.  they originally told me that i had to drive thirty minutes to peoria to get this confirmed with an authorized apple service representative, but i thought i'd call <a href="http://connectingpoint.com/">the local apple store</a> just to make sure, and sure enough, they are an authorized (though apparently unknown to apple) apple service representative. i am currently grabbing all of my important information off of the broken ibook, which i can only do because i had file sharing turned on. so i'm writing this both because it has worked out unexpectedly well so far, which makes a nice story, but also to encourage you to turn on file sharing on any macs you own, even if you never use it.</p>

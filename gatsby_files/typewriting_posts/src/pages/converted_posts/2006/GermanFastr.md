@@ -1,6 +1,0 @@
----
-path: "/2006/02/26/GermanFastr" 
-date: "2006/02/26 22:51:15" 
-title: "German Fastr" 
----
-<p>Thanks to Christoph Wagner's translation, there is a new <a href="http://randomchaos.com/games/fastr/de/">German version of fastr</a>. Having translated the tags into three languages now, I can say with some experience that flickr desperately needs to improve language support. The entire system assumes everyone is using the same language, but they obviously are not. So when you search tags for <a href="http://flickr.com/photos/tags/strand/interesting/">strand</a>, you don't get pictures of strands; you get pictures of beaches, because "strand" is German for beach. And <a href="http://flickr.com/photos/tags/boot/interesting/">"boot"</a> is a mixture of boots and boats, because "boot" is German (and Dutch?) for boat.</p><br><p>This isn't really that much of a problem for English speakers because the English tags tend to dominate any overlap with another language, but all those people using flickr with non-English tags are getting a semi-broken service. And at two years old, flickr doesn't have much excuse for not dealing with this problem. Anyway, there's a German version of fastr now, but it's missing a bunch of tags because of substantial language overlap with English tags.</p>

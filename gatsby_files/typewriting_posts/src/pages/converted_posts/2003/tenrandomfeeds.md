@@ -1,6 +1,0 @@
----
-path: "/2003/07/26/tenrandomfeeds" 
-date: "2003/07/26 09:50:23" 
-title: "ten random feeds" 
----
-<p>the next version of mail log will allow users to subscribe to OPML lists of feeds, which will have the same effect as subscribing to every feed in that list. but it will also have some added functionality because the contents of the list can change, automatically changing the users subscriptions. this is my solution to the same problem some are trying to solve with more complicated centralized subscription "harmonizers". ironically, among these people is the inventor of OPML.</p><br><p>anyway, the default subscription will be the OPML file i just posted at <a href="http://weblog.randomchaos.com/randomfeeds.php">randomfeeds.php</a>, which is a list of random feeds pulled from <a href="http://www.syndic8.com/">syndic8.com</a>. i don't believe there are currently any newsreaders that allow users to subscribe to an OPML file. but many allow importing of feeds from OPML files, so you can use this utility now to add some spice to your regular reading by saving the results and importing them.</p>

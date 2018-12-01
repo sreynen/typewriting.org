@@ -1,6 +1,0 @@
----
-path: "/2007/08/19/DenverWebGeekLunch:Successful" 
-date: "2007/08/19 21:21:14" 
-title: "Denver Web Geek Lunch: Successful" 
----
-<p>For those of you following along with <a href="http://typewriting.org/2007/08/16/Denver_Web_Geek_Lunch/#content">the experiment</a> at home, initial tests suggest adding beer to a web geek meeting does indeed make it more interesting. Or maybe having it on a weekend does that. Or maybe a smaller group. Or pizza. In any case, I had fun yesterday, learned a lot, and I would no longer say "Denver's web community is boring me."</p><br><p>Here's something I learned before lunch even started (aside from the restaurant not opening until noon &#8212; oops): I had always assumed <a href="http://en.wikipedia.org/wiki/Punch_card">punch card computers</a> worked by circuits connecting through the holes in cards. But it turns out they were  entirely mechanical, with air bursting through the holes and flipping switches on the other side. Neat.</p><br><p>And of course there were web-specific topics too. But you'll have to come next time to experience all the excitement. Maybe we'll swap out pizza for ice cream or something, continue experimenting. In the distance, I still have my eye on BarCampDenver. Things are looking up.</p>

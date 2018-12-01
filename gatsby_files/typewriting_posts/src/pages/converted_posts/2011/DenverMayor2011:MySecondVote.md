@@ -1,6 +1,0 @@
----
-path: "/2011/05/05/DenverMayor2011:MySecondVote" 
-date: "2011/05/05 19:13:38" 
-title: "Denver Mayor 2011: My Second Vote" 
----
-<p>My <a href="http://typewriting.org/2011/04/17/Denver_Mayor_2011%3A_My_Vote/#content">voting strategy</a> in Denver's Mayoral race worked much better than I imagined. My thinking was that Romer would win, and I should vote for someone else who seemed good, to keep Romer accountable. What I didn't realize is Denver's mayoral elections require a majority, not just a plurality. So Romer didn't actually win by a small margin; he didn't win at all. He did get the most votes. Mejia, who I expected to take second, actually took third slightly behind Hancock. So the runoff is <a href="http://www.denverpost.com/politics/ci_17996062">between Romer and Hancock</a>. I didn't pay much attention to Hancock the first time, and looking more closely at him now, I don't like him as much as Romer. Specifically his suggestion to set "performance goals" for city agencies feels like an empty gesture at best, an opening to cuts based on the ability to quantify rather than actual importance at worst. So unless something significant changes before the runoff, I'm voting for Romer this time.</p>

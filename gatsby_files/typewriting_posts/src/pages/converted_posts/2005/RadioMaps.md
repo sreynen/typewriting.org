@@ -1,6 +1,0 @@
----
-path: "/2005/07/26/RadioMaps" 
-date: "2005/07/26 15:57:34" 
-title: "Radio Maps" 
----
-<p>Here's my plan for a useful Google maps tool: take the FCC's database of radio station information (e.g. <a href="http://www.fcc.gov/fcc-bin/fmq?state=IA&amp;call=&amp;city=des+moines&amp;arn=&amp;serv=&amp;vac=&amp;freq=0.0&amp;fre2=107.9&amp;facid=&amp;class=&amp;dkt=&amp;list=0&amp;dist=&amp;dlat2=&amp;mlat2=&amp;slat2=&amp;NS=N&amp;dlon2=&amp;mlon2=&amp;slon2=&amp;EW=W&amp;size=9">stations in Des Moines</a>), and figure the span of each station (<a href="http://www.fcc.gov/fcc-bin/FMTV-service-area?n=FM300179.html">like so</a>) to provide a tool that allows people to click a location on a Google map, and get a list of radio stations and signal strengths for that location. Bonus points: 1) Search Google for each station's website, 2) Search each website for an online version of the station's audio, 3) Provide an interface for listening to each station.</p><br><p>Now, who wants to make it?</p>

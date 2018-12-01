@@ -1,6 +1,0 @@
----
-path: "/2005/09/01/TwentyCents" 
-date: "2005/09/01 23:10:22" 
-title: "Twenty Cents" 
----
-<p>I just posted another song to the music server, <cite>Twenty Cents</cite> (<a href="http://music.randomchaos.com/mp3s/scott_reynen/twenty_cents.mp3">MP3</a>, <a href="http://music.randomchaos.com/lyrics/scott_reynen/twenty_cents">lyrics</a>). If I'm not careful, this could become a habit. This is another rough track done in one take. I don't think the vocals and guitar balanced quite as well as they did on the last one, and you can hear a police siren in the background on the second verse. But that just gives it an "authentic" sound, right? I spent a while trying to make a real scratch track by keeping a consistant tempo with a click track. But then I gave up and just recorded it, which took about half as long as fiddling with the tempo. And it was more fun. I have five or six more songs that I've never recorded before I have nothing better to do but improve the recording quality. Or write more songs.</p>

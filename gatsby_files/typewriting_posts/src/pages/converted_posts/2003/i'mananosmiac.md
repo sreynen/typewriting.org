@@ -1,6 +1,0 @@
----
-path: "/2003/02/28/i'mananosmiac" 
-date: "2003/02/28 10:23:50" 
-title: "i'm an anosmiac" 
----
-<p>i have very little sense of smell. today i came across a post by <a href="http://www.plasticbag.org/archives/2003/02/on_people_who_cant_smell.shtml">tom coates: On people who can't smell...</a> this is not something most people discuss, nor something most people have the vocabulary to discuss. i'm not sure which is the cause and which the effect. but having been empowered by a vocabular lesson from tom, i'm excited to say that i have anosmia. (or maybe just "partial anosmia", but anyway...) i also learned from tom that there are treatments for anosmia. i'll have to do some more investigating when i am back in america. (like tom, this doesn't strike me as a serious problem.)</p><br><p>right now, i think i'm probably experiencing a small bit of what woman once felt (maybe some still do) when they learned words like "feminist" and "sexism". actually, <a href="http://dictionary.reference.com/search?q=anosmiac">"anosmiac" is not currently a word.</a> right now, it seems there is no word to describe the *person* who has the condition of anosmia. but i'm confident "anosmiac" will find it's way into the english language after we bring about Global Anosmiac Liberation#8482;.</p>

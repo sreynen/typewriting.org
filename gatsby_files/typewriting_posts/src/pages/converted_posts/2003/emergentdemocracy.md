@@ -1,6 +1,0 @@
----
-path: "/2003/02/26/emergentdemocracy" 
-date: "2003/02/26 12:26:27" 
-title: "emergent democracy" 
----
-<p><a href="http://joi.ito.com/static/emergentdemocracy.html">joi ito</a> writes: <q>The world needs emergent democracy more than ever. The issues are too complex for representative governments to understand.</q> it all sounds nice to me. my main worry is that emergent solutions only work with emergent problems. ants can make triangles because the problem of making a triangle can be broken down into the less complex problem of going far away. but ants' ability to create emergent solutions doesn't do much good when a foot comes down on half the colony. there is no discernable order to that problem from the ants' perspective. is it correct to assume that all important problems facing people today can be broken down into smaller problems? <a href="http://www.wolframscience.com/summary/">stephen wolfram</a> believes so, but his predicted <q>major intellectual revolution</q> has yet to materialize. i'd like to see that take shape before we start revolutionizing democracy, which, despite some flaws, has worked rather well so far.</p>

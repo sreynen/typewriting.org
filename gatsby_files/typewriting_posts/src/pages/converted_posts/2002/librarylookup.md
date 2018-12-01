@@ -1,6 +1,0 @@
----
-path: "/2002/12/12/librarylookup" 
-date: "2002/12/12 12:02:46" 
-title: "library lookup" 
----
-<p><a href="http://weblog.infoworld.com/udell/stories/2002/12/11/librarylookup.html">jon udell is getting closer</a> to <a href="http://weblog.randomchaos.com/index.php?date=2002-12-11&amp;title=amazon+as+library+interface">what i was talking about yesterday</a>. while he was adding the bookmarklet piece to the puzzle, i was trying out some different ways of finding local libraries (within X miles of zip code YYYYY). after trying to implement this locally (and discovering that i lack the processing power to handle over 42,000 zip codes) i came across <a href="http://www.bindingpoint.com/QuickTryv2.aspx?wsdl=http%3a%2f%2fwww.discoverdance.co.uk%2fzipQuery%2fzipCodeService.asmx%3fwsdl&amp;s=zipCodeService&amp;op=findZipCodeDistance&amp;p=zipCodeServiceSoap&amp;ap=http%3a%2f%2fwww.discoverdance.co.uk%2fzipQuery%2fzipCodeService.asmx&amp;sKey=c9bd8636-cf46-404e-81dc-4d63e11119b5">this publicly available soap interface to this information</a>.</p>

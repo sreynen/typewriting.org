@@ -1,6 +1,0 @@
----
-path: "/2002/10/17/japaneselessonoftheday" 
-date: "2002/10/17 22:37:30" 
-title: "japanese lesson of the day" 
----
-<p>i've decided to start a "japanese lesson of the day" weblog. i think it will be a fun project to combine my interests in programming and japanese and my experience teaching foreign language. i have a pretty good idea of how i want to do it, but it will probably take me a week or so to get it started. one thing i want to do is set it up so i can pre-write entries for future days, so that readers will actually get a new lesson every day. i want to start with the basics and gradually build so that in a few months a reader could learn some practical japanese. and i want to add a "days-behind" option, so that someone can jump in a few months after i start, but begin on the first daily lesson. that's what i have planned. stay tuned for the results.</p><br><p>i've also offerend to help build an rss feed for <a href="http://ieeecs.ece.utexas.edu/~tree/kotd/modules.php?name=Kanji&amp;file=todays_kanji">this kanji of the day site</a>, but i have no idea if they'll take me up on it. it's a nice site already, but i'd like to read it with the rest of my news (i.e. via rss).</p>

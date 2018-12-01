@@ -1,6 +1,0 @@
----
-path: "/2002/12/15/moviesinasia" 
-date: "2002/12/15 12:31:16" 
-title: "movies in asia" 
----
-<p><a href="http://www.openp2p.com/pub/a/p2p/2002/12/11/piracy.html">tim o'reilly</a> wrote <q>The simplest way to get customers to stop trading illicit digital copies of music and movies is to give those customers a legitimate alternative, at a fair price.</q> this is quite obvious with movies here in asia. hollywood movies don't come to the theatres here until a few months after they appear in america. but the same movies can be found pirated on video-cd within a few weeks of showing in american theatres. the video-cds are generally of low quality, and i would prefer to pay a bit more for a better movie experience. but the three month delay significantly reduces the value of theatre viewing for me. of course, hollywood could be distributing these movies online to asia overnight. and <a href="http://news.com.com/2100-1023-964285.html">they'll be doing that eventually</a>, but by then they will be crying "pirating" on the online video trading of customers who weren't willing to wait.</p>

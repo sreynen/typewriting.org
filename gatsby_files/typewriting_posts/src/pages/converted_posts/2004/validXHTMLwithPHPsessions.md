@@ -1,6 +1,0 @@
----
-path: "/2004/11/14/validXHTMLwithPHPsessions" 
-date: "2004/11/14 12:57:00" 
-title: "valid XHTML with PHP sessions" 
----
-<p><a href="http://www.google.com/search?q=phpsessionid+valid+xhtml">a google search for "phpsessionid valid xhtml"</a> currently returns 13 results, none of which explain how to produce valid xhtml with php's automatic phpsessionid. it took me a while to figure it out, so hopefully this post will show up in those results soon and help someone else out. what you need to do is put this at the beginning of your script:</p><br><code><br>    ini_set( 'arg_separator.output' , '&amp;amp;' );<br /><br>    ini_set( 'url_rewriter.tags' , 'a=href,area=href,frame=src,input=src,fieldset=' );<br></code><br><p>the first part will make the automatic URL rewriting for sessions use the HTML entity &amp;amp; rather than the default &amp;, which is invalid XHTML. the next line will add the hidden form input (which is valid XHTML) inside a <code>&lt;fieldset&gt;</code> rather than the default, immediately after the <code>&lt;form&gt;</code> tag, which is invalid XHTML. if you don't already have them, you need to put <code>&lt;fieldset&gt;</code> tags inside all <code>&lt;form&gt;</code> tags to get forms to work with PHP sessions. this will change the appearance of your forms, but you can change it back with some CSS styling.</p>
