@@ -1,0 +1,6 @@
+---
+path: "/2006/10/04/Words_Mean_Things" 
+date: "2006/10/04 14:52:48" 
+title: "Words Mean Things" 
+---
+<p>One of my pet peeves is the incorrect use of technical terminology in public. Sometimes I feel like I'm some sort of linguistic elitist when I point out that not everything interesting done in JavaScript is "AJAX." But unlike those who obstinately repeat "ain't ain't a word," technically meaningless terminology actually affects people's ability to communicate.</p><br><p><a href="https://lists.latech.edu//pipermail/javascript/2006-October/011829.html">Case in point</a>:</p><br><blockquote>&gt;&gt; If I have a form element like<br /><br>&gt;&gt; &lt;input type="text" name="mydata"&gt;<br /><br>&gt;&gt; Is there a way to select it in a similar manner to getElemntById()?<br /><br>&gt;<br /><br>&gt; var nameArray = document.getElementsByTagName('mydata');<br /><br><br /><br><br /><br>I can' seem to get getElementsByTagName working. I am not sure what I  <br>am doing wrong.<br></blockquote><br><p>This confused individual thought "TagName" referred to the "name" attribute. Why would anyone think the "name" attribute was a tag? Because hundreds of people go around referring to attributes and tags. Stop it. You're confusing people. If you don't know what a technical term means, don't use it. Use plain English instead.</p>

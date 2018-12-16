@@ -1,0 +1,6 @@
+---
+path: "/2007/05/29/Home,_in_Denver" 
+date: "2007/05/29 18:23:23" 
+title: "Home, in Denver" 
+---
+<p>I'm back from Peru now, and getting settled in Denver before I start the new job this Friday. Right now I'm living in a mostly empty apartment with no furniture and no internet access. Surprisingly, it's not that bad. I don't really find it uncomfortable sitting and sleeping on the floor, with the exception of eating, when it would be nice to have my food closer to my mouth without holding a plate with one hand.</p><br><p>For internet access, there are enough free wireless networks nearby that I'm considering not getting home internet access at all. I called Qwest today and found that I will need to be at home a whole weekday to get service started, because they won't schedule at a specific time. That, on top of leaving my old Qwest modem in Illinois, means I'll be waiting at least until Jessica gets here before signing up for internet access. If I don't find those two weeks too unbearable, I expect I'll not sign up at all.</p><br><p>Just imagine: a professional web developer without internet access at home. Crazy, huh?</p>

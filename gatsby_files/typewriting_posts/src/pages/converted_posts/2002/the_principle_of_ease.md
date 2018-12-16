@@ -1,0 +1,6 @@
+---
+path: "/2002/11/28/the_principle_of_ease" 
+date: "2002/11/28 23:43:06" 
+title: "the principle of ease" 
+---
+<p>the principle of ease rests on the following simple beliefs:</p><br><ul><br><li>helping people is good</li><br><li>conversely, hurting people is bad</li><br><li>making people's lives easier helps them</li><br><li>conversely, making people's lives more difficult hurts them</li><br><li>making one person's life easier makes her or him more likely to help other people. (however, this should not imply that it is universally good to help people who are least helpful to others, as doing so may suggest that being unhelpful is gainful, and thus be counter productive.)</li><br><li>conversely, making one person's life more difficult makes him or her more likely to hurt other people. (the converse disclaimer also applies.)</li><br></ul><br><p>from these beliefs, it follows that *it is best to take actions which create the most ease and the least difficulty*. this may all seem obvious, but a disturbingly large amount of energy goes into creating difficulty.</p>

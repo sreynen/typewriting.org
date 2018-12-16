@@ -1,0 +1,6 @@
+---
+path: "/2004/02/25/the_madness_of_king_george" 
+date: "2004/02/25 11:37:27" 
+title: "the madness of king george" 
+---
+<p>a friend of mine wrote <q>i was actually kind of wondering what you thought about bush's statement about gay marriage</q>, which surprised me because i think i've been rather predictable on issues of gay rights ever since i wrote "it's not okay to hate gay people" in my high school newspaper.</p><br><p>on the one hand it's depressing that bush can think this will improve his electability, that there are enough people out there who want discrimination to be enshrined in our constitution that this political stunt was seen as worthwhile. on the other hand, it's just a political stunt. a constitutional amendment is very hard to pass, precisely so ridiculous crap like this doesn't get through. the only amendment to the constitution that ever removed rights like this one threatens to do, prohibition, was later repealed. it would take years to get this through, and in those years, americans are going to meet more and more openly gay people and discover that they are less of a threat to "the sanctity of marriage" than, say, divorce.</p><br><p>my only question is whether we'll come to that realization before or after the election this november. if it's not until after, things are going to get even worse.</p>

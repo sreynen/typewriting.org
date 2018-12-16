@@ -1,0 +1,6 @@
+---
+path: "/2006/10/09/The_Modern_Wedding" 
+date: "2006/10/09 23:02:59" 
+title: "The Modern Wedding" 
+---
+<p>Last weekend I attended a wedding. Somewhere between the readings and the rings, the officiator (judge? minister?) said something about how the ceremony was a public acknowledgment if a commitment long since made, or something to that effect. I thought this was an interesting reinterpretation of the wedding ceremony.</p><br><p>I know several couples who had weddings this year. It may be a skewed sample, as one of those weddings was my own, but all of them lived together for years prior to marriage, and they were all pretty much "married" long before the wedding. This is the kind of change that many fear as part of the gradual destruction of families in America.</p><br><p>But it's a surprisingly subtle change in practice. The ceremony looks and feels just as it would if the wedding was actually the marriage. And I think the result is actually a gradual *strengthening* of marriage, by detaching it from what is ultimately an arbitrary wedding ceremony, generally scheduled more around the progression of the weather than the progression of the relationship. Now we just need to detach marriage from government.</p>

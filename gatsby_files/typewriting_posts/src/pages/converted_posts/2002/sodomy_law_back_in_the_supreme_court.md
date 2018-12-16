@@ -1,0 +1,6 @@
+---
+path: "/2002/12/03/sodomy_law_back_in_the_supreme_court" 
+date: "2002/12/03 22:04:59" 
+title: "sodomy law back in the supreme court" 
+---
+<p><a href="http://news.findlaw.com/news/s/20021202/courtsodomydc.html">the US supreme court today agreed to hear a leal challenge to anti-sodomy law</a>. the last hearing of this issue was in 1986. you can read <a href="http://www.law.umkc.edu/faculty/projects/ftrials/conlaw/bowers.html">the court's decision decision in full</a>. i find the dissenting opinion more persuasive: <q>This case involves no real interference with the rights of others, for the mere knowledge that other individuals do not adhere to one's value system cannot be a legally cognizable interest, let alone an interest that can justify invading the houses, hearts, and minds of citizens who choose to live their lives differently.</q> on the other hand, the court's 1986 refusal to strike down anti-sodomy laws on the basis that doing so would create <q>a fundamental right to engage in homosexual sodomy</q> strikes me as ridiculous. the fundamental right is freedom. why does it take so long to affirm freedom in every new context in which someone wants to deny it?</p>

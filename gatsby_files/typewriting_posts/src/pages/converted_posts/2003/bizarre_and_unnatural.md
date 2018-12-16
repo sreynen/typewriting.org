@@ -1,0 +1,6 @@
+---
+path: "/2003/11/10/bizarre_and_unnatural" 
+date: "2003/11/10 00:17:31" 
+title: "bizarre and unnatural" 
+---
+<p><a href="http://www.bradsucks.net/archives/000329.php">brad sucks</a> writes:</p><br><blockquote>I find this whole iTunes universe totally bizarre and unnatural. To me it seems too much like the old decidedly F'd up model dressed up to look like something new. Maybe it'll stick, but right now it just feels like a step backwards to me and that technology + progress is going to lay the smack down on it any day now.</blockquote><br><p>it's not as clear to me that "the smack" will be laid down any day soon. i'm afraid all those arguments from filesharing proponents about how musicians don't get a fair shake with the current music distribution system were just empty rhetoric. now that cheap and legal music distribution systems exist, few users seem to care whether or not they're fair. the debate has shifted to <a href="http://www.scenespot.org/coplan/archives/000075.html">which unfair system is the best</a>, which is really just a question of user interface. the money in all of these systems is going to the same people - not the musicians, but the distributors. only now the distributors aren't even doing the distributing. it's not even "the old decidedly F'd up model" as brad puts it; it's worse.</p>

@@ -1,0 +1,6 @@
+---
+path: "/2004/09/08/remember_when_the_legislative_branch_legislated?" 
+date: "2004/09/08 17:00:14" 
+title: "remember when the legislative branch legislated?" 
+---
+<p><a href="http://www.moveon.org/news/savetheban.html">peter schurman of moveon.org</a> writes <q>On Monday, September 13th, at midnight, the national ban on military-style assault weapons will expire, allowing these murderous weapons back on our streets. Congress is feeling the heat and is prepared to renew the ban, if the president will only ask</q>. and they want me (and everyone else) to send a letter to the president urging him to urge congress to write some legislature. i'm all for some reasonable gun control, but i'm more for separation of powers. i don't want my president legislating, and i won't encourage congress to further ignore its constitutional responsibility by waiting for the executive branch to propose legislation. why isn't moveon.org sending letters to members of congress asking them why they aren't doing their jobs?</p>

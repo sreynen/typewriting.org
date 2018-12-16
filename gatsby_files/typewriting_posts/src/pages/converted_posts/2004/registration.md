@@ -1,0 +1,6 @@
+---
+path: "/2004/12/24/registration" 
+date: "2004/12/24 17:45:32" 
+title: "registration" 
+---
+<p>if you don't have an account on randomchaos.com (and you don't because only i do), you may have tried to create one by clicking on that "[<a href="http://www.randomchaos.com/user/register.php">Register</a>]" link at the top of every page. if you are one of the hundred or so who did that, you found that it didn't work. it said it worked, but then you couldn't login using your new account, because it didn't really work. sorry about that. next time something like that happens, let me know and i'll fix it. but now it works, so you can go make an account and then add your name to your account and then when you go to leave a comment on the weblog, it will automatically fill in your name whenever you're logged in.</p><br><p>i discovered this because my friend jj wants to use my otherwise unused <a href="http://www.randomchaos.com/photo.php">photo album tool</a> to publish some of his photos, and i had to create an account for him so he could do this. so if jj does his part, some day soon the photo tool will be full of photos.</p>

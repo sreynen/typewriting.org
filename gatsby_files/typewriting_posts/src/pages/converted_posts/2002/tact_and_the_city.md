@@ -1,0 +1,6 @@
+---
+path: "/2002/11/22/tact_and_the_city" 
+date: "2002/11/22 12:21:25" 
+title: "tact and the city" 
+---
+<p>i've been thinking more about tact this morning. one criticized for being tactless will often turn around and criticize his or her critic for being dishonest or too passive. personally, i'm not the *most* tactful person in the world, but i think when i error, it's generally on the side of dishonesty. so that's my bias; i prefer tact.</p><br><p>if we are to conceptually split the world into tactless and dishonest people, it seems to me that tactless people tend to be over-represented in larger cities. maybe this is because people who live in cities feel more exposed to, and so more related to, others in the city, and make <a href="http://weblog.randomchaos.com/index.php?date=2002-11-22&amp;title=holmes+on+tact">the false assumption that these relations remove the necessity for tact</a>. but, i wonder, does that suggest that most people make this assumption, and it only because of a lack of percieved close relations that tactful people appear so? and if not, how are we to explain the higher concentration of tactless people in larger cities?</p>

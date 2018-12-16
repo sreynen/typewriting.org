@@ -1,0 +1,6 @@
+---
+path: "/2004/06/01/this_'democracy'_thing_they_keep_talking_about" 
+date: "2004/06/01 07:36:43" 
+title: "this 'democracy' thing they keep talking about" 
+---
+<p>i'm a little confused after reading this in a <a href="http://seattletimes.nwsource.com/html/nationworld/2001943415_iraqcouncil31.html">seattle times</a> article:<q>Bremer and Brahimi are trying to exert control over an unwieldy process in which individuals and parties represented on the U.S.-appointed Governing Council are jostling for posts.</q> i understand that the "unwieldy process" is called "democracy" and that it's this "democracy" we're trying to bring to iraq. i also understand that we have this "democracy" thing here in america. what i don't understand is this: if the current authority can veto an election in one of these "democracies," why is bush wasting <a href="http://www.usatoday.com/news/politicselections/nation/president/2004-05-13-bush-campaign_x.htm">millions of dollars</a> trying to get people to vote for him? why doesn't he just veto the election?</p>

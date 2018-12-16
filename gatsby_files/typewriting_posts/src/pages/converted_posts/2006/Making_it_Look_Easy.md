@@ -1,0 +1,6 @@
+---
+path: "/2006/03/23/Making_it_Look_Easy" 
+date: "2006/03/23 17:28:33" 
+title: "Making it Look Easy" 
+---
+<blockquote><p>The thing is, even though I know how much more difficult Jason's routine is and how skilled he is, the very ease of his delivery makes it less likely an audience would give him that same ovation. Interesting how important effort seems to be.</p></blockquote><br><p>&#8212; <a href="http://sethgodin.typepad.com/seths_blog/2006/03/its_how_you_tel.html"><cite>Seth Godin</cite></a></p><br><p>In university, I was involved in "Jugglers Against Homophobia" (which I gather has since become the less interesting "Jugglers Against Oppression"). I taught a lot of people how to juggle. I learned to give different advice to people learning how to juggle and people learning how to *perform* juggling. I would tell jugglers how to avoid dropping a ball (throw the next ball when the ball in the air is at maximum height, giving yourself the most time to react to the falling ball).</p><br><p>I would tell juggling performers the same thing, but then I would also tell them to start any segment of a juggling routine by dropping something. This establishes the difficulty of the activity and makes success more impressive. It seems a bit deceptive at first glance, but juggling really *is* hard.</p>
