@@ -1,1 +1,3 @@
 *.class
+.travis.yml
+travis.log
